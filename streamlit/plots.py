@@ -2,6 +2,7 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 import plotly.express as px
+import os
 ## Plotly library and functions
 
 import plotly.express as px
@@ -17,7 +18,7 @@ import plotly.graph_objects as go
 def load_data_master():
 
     # Get the directory of the current script
-    BASE_DIR = Path(__file__).resolve().parent
+    BASE_DIR = Path(os.getcwd()).resolve().parent
 
     # Build absolute paths
     master_collection_path = BASE_DIR / "../data/master/master_collection.csv"
