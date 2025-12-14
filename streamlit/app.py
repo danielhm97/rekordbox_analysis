@@ -45,7 +45,7 @@ with st.sidebar:
     # Selector de página/sección
     pagina = st.selectbox(
         "Selecciona una sección",
-        ["🏠 Inicio", '💿 Colección',"🗓️ Historial"]
+        ["🏠 Inicio", '💿 Colección',"🗓️ Historial",'💡 Insights']
     )
 
     st.divider()
@@ -286,6 +286,85 @@ elif pagina == "🗓️ Historial":
         st.subheader('Explora tus sets con metricas de Spotify')
         st.caption('Estamos trabajando para ti, vuelve pronto..')
 
+elif pagina == '💡 Insights':
+    st.markdown("# Insights y Conclusiones del Análisis Visual del Dashboard")
+
+    st.markdown("""
+    A continuación, se presentan los principales insights y conclusiones derivados del análisis visual, organizados por sección del dashboard.
+    """)
+    
+    st.markdown("## 1. Insights de la sección Colección")
+    
+    st.markdown("""
+    - **Tamaño y diversidad de la colección:**  
+      La colección cuenta con **16 géneros distintos**, lo que indica un nivel de **diversidad elevado**. La mayoría de DJs profesionales se especializan en 4–5 géneros, por lo que esta colección es **amplia y versátil**.
+    
+    - **Promedio de BPM:**  
+      Valor cercano a **125 BPM**, equilibrado y representativo de estilos como **house, tech house y techno suave**.
+    
+    - **Crecimiento de la colección:**  
+      Aumentó de **362 tracks en 2021** a **710 en 2025**, casi duplicándose en cuatro años.
+    
+    - **Géneros más representativos y duración de tracks:**  
+      - Géneros predominantes: **Tech House**, seguido por **Techno, Melodic Techno, Minimal y Deep Tech**.  
+      - Duración promedio: alrededor de **6 minutos**.  
+      - Techno y Melodic Techno suelen ser más largos; Tech House y Minimal más cortos.
+    
+    - **Distribución armónica:**  
+      Mayor concentración en la **escala A**, con ligera subrepresentación de la **clave 12A**.
+    
+    - **Formatos de archivo:**  
+      Alta proporción de **MP3**; se recomienda aumentar formatos de alta calidad como **AIFF, WAV o FLAC**.
+    
+    - **Histograma de BPM:**  
+      La zona de confort está entre **122–126 BPM**, mostrando un estilo definido y consistente.
+    """)
+    
+    st.markdown("## 2. Insights de la sección Colección vs Spotify")
+    
+    st.markdown("""
+    - **Matching con Spotify:**  
+      - **95% de match**, índice de similaridad promedio **0.88**.  
+      - Histograma del índice cargado hacia valores cercanos a 1.
+    
+    - **Índice de popularidad:**  
+      Promedio de **26/100**, selección musical orientada al **underground**.
+    
+    - **Tracks por año de lanzamiento:**  
+      Mayor concentración entre **2016–2020**, disminuyendo desde **2023**, sugiriendo necesidad de actualización.
+    """)
+    
+    st.markdown("## 3. Insights de la sección Historial de DJ Sets")
+    
+    st.markdown("""
+    - **Uso de la colección:**  
+      Total de **43 DJ sets**, utilizando aproximadamente el **47% de la colección**.
+    
+    - **Duración promedio de DJ sets:**  
+      Media de **99 minutos**, alineada con formatos **underground**.
+    
+    - **DJ sets por año:**  
+      Disminución significativa en **2025**, solo **6 sets**.
+    
+    - **BPM promedio de DJ sets:**  
+      Consistente con la colección: alrededor de **125 BPM**.
+    
+    - **Duración de DJ sets:**  
+      La mayoría concentrada en **99–100 minutos**.
+    """)
+    
+    st.markdown("## Conclusión")
+    
+    st.markdown("""
+    - Colección **diversa**, con crecimiento sostenido y perfil musical definido (**125 BPM**, house/techno).  
+    - Integración con Spotify confiable, con enfoque **underground**.  
+    - Oportunidades de mejora:  
+      - Actualización de **tracks recientes**.  
+      - Mejorar la **calidad de los formatos de audio**.  
+      - Mayor aprovechamiento de la colección en **DJ sets**.
+    
+    El dashboard es una **herramienta útil** para la toma de decisiones y evolución artística del DJ.
+    """)
 
 #########################
 ## PIE DE PÁGINA
