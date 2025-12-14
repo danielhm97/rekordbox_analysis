@@ -1,0 +1,711 @@
+rb_track_id,rb_track_name,rb_artists,rb_album,rb_genre,rb_file_type,rb_file_size_bytes,rb_duration_sec,rb_year_release,rb_average_bpm,rb_date_added,rb_playcount,rb_file_name,rb_tonality,rb_label,rb_extract_timestamp
+7,Ikaro (Moscoman Extended Remix),PAAX (Tulum),Armada Deep: Ibiza 2019 (Extended Versions),Melodic House,FLAC,46672376,411,2019,120.0,2021-10-10,3,"PAAX (Tulum), Moscoman - Ikaro (Moscoman Extended Remix)",6A,,2025-12-12 14:53:56
+8,Grace,Patrice Baumel,Armada Deep: Ibiza 2019 (Extended Versions),Melodic Techno,FLAC,49566686,473,2019,125.99,2021-10-10,0,Patrice Baumel - Grace,2A,,2025-12-12 14:53:56
+9,Renaissance (Extended Mix),Maxim Lany,,Melodic House,FLAC,42231081,439,2019,123.0,2021-10-10,1,Maxim Lany - Renaissance (Extended mix),7A,,2025-12-12 14:53:56
+10,Soul Valley (Original Mix),Adriatique,,Melodic Techno,MP3,22573178,559,2016,122.0,2021-10-10,3,Adriatique - Soul Valley (Original Mix),2A,,2025-12-12 14:53:56
+11,Voices From The Dawm (Original Mix),Adriatique,,Melodic Techno,MP3,17223974,428,0,121.0,2021-10-10,1,Adriatique - Voices From The Dawn (Original Mix),4A,,2025-12-12 14:53:56
+12,Home (Original Mix),"Adriatique, Delhia De France, Marino Canal",,Melodic House,MP3,17565157,436,0,120.0,2021-10-10,2,Adriatique Ft. Delhia De France Marino Canal - Home (Original Mix),7A,,2025-12-12 14:53:56
+13,Crazy Kills (Original Mix),Agar,Crazy Kills EP,Tech House,MP3,16134458,402,0,124.0,2021-10-10,2,Agar - Crazy Kills (Original Mix),1A,,2025-12-12 14:53:56
+14,Sultan,"Agent!, Dompe",Sultan EP,Tech House,MP3,15899919,396,0,124.0,2021-10-10,3,"Agent!, Dompe - Sultan",12B,,2025-12-12 14:53:56
+15,All Hope Fades (Original Mix),Alan Fitzpatrick,,Techno,MP3,16366846,403,0,130.0,2021-10-10,0,Alan Fitzpatrick - All Hope Fades (Original Mix),4B,,2025-12-12 14:53:56
+16,Dead Beat Exile (Original Mix),Alan Fitzpatrick,,Techno,MP3,16318780,402,0,130.0,2021-10-10,0,Alan Fitzpatrick - Dead Beat Exile (Original Mix),4A,,2025-12-12 14:53:56
+17,Ego (Original Mix),Alan Fitzpatrick,,Techno,MP3,17260404,430,0,128.0,2021-10-10,1,Alan Fitzpatrick - Ego (Original Mix),8A,,2025-12-12 14:53:56
+18,Eleven Eleven (Original Mix),Alan Fitzpatrick,,Techno,MP3,16567466,408,2019,126.98,2021-10-10,3,Alan Fitzpatrick - Eleven Eleven (Original Mix),1A,,2025-12-12 14:53:56
+19,Eleven Eleven (Polymod Remix),Alan Fitzpatrick,,Techno,MP3,17591466,434,0,127.0,2021-10-10,0,Alan Fitzpatrick - Eleven Eleven (Polymod Remix),2B,,2025-12-12 14:53:56
+20,Love Siren (Original Mix),Alan Fitzpatrick,,Techno,MP3,16116878,398,2016,126.0,2021-10-10,0,Alan Fitzpatrick - Love Siren (Original Mix),6A,,2025-12-12 14:53:56
+21,Stand Up (Original Mix),Alan Fitzpatrick,,Techno,MP3,14770677,361,0,126.0,2021-10-10,0,Alan Fitzpatrick - Stand Up (Original Mix),11B,,2025-12-12 14:53:56
+22,Toasted Pitta (Original Mix),Alan Fitzpatrick,,Techno,MP3,12900919,316,0,129.0,2021-10-10,0,Alan Fitzpatrick - Toasted Pitta (Original Mix),8A,We Are The Brave,2025-12-12 14:53:56
+23,We Do What We Want (Original Mix),Alan Fitzpatrick,,Techno,MP3,20265625,505,2016,126.0,2021-10-10,3,Alan Fitzpatrick - We Do What We Want (Original Mix),4A,,2025-12-12 14:53:56
+24,El House,Alejandro Paz,El Untitled,House,MP3,11895192,294,2013,120.0,2021-10-10,0,Alejandro Paz - El House,6A,,2025-12-12 14:53:56
+25,Cook It Up,Alvaro AM,,Tech House,MP3,13657897,341,0,124.0,2021-10-10,1,Alvaro AM - Cook It Up,9A,,2025-12-12 14:53:56
+26,Follow (Original Mix),Amelie Lens,,Techno,MP3,14074625,337,2017,128.0,2021-10-10,1,Amelie Lens - Follow (Original Mix),11A,,2025-12-12 14:53:56
+27,Helium (Original Mix),Amelie Lens,Little Robot EP,Techno,MP3,14182591,352,2019,133.0,2021-10-10,4,Amelie Lens - Helium (Original Mix) [Lenske],8A,Lenske,2025-12-12 14:53:56
+28,In Silence (Original Mix),Amelie Lens,,Techno,MP3,15799853,393,2017,128.0,2021-10-10,2,Amelie Lens - In Silence (Original Mix),3B,,2025-12-12 14:53:56
+29,Man Over Machine (Original Mix),Amelie Lens,Little Robot EP,Techno,MP3,15383188,383,2019,132.0,2021-10-10,4,Amelie Lens - Man Over Machine (Original Mix) [Lenske],10A,Lenske,2025-12-12 14:53:56
+30,Storm (Original Mix),Amelie Lens,Little Robot EP,Techno,MP3,17223243,429,2019,131.0,2021-10-10,4,Amelie Lens - Storm (Original Mix) [Lenske],5A,Lenske,2025-12-12 14:53:56
+31,Chop Suey (Original Mix),"Andre Butano, Miguel Lobo",,Tech House,MP3,15302046,380,0,123.0,2021-10-10,2,"Andre Butano, Miguel Lobo - Chop Suey (Original Mix)",12A,,2025-12-12 14:53:56
+32,My Way (Original Mix),Andrea Oliva,,Tech House,MP3,15614903,389,0,125.0,2021-10-10,2,Andrea Oliva - My Way (Original Mix),8A,,2025-12-12 14:53:56
+33,Terrace (Original Mix),Andrea Oliva,,Tech House,MP3,18170229,453,0,124.0,2021-10-10,2,Andrea Oliva - Terrace (Original Mix),10A,,2025-12-12 14:53:56
+34,Vermona (Original Mix),Andrea Oliva,,Tech House,MP3,20242444,502,0,123.0,2021-10-10,2,Andrea Oliva - Vermona (Original Mix),1A,,2025-12-12 14:53:56
+35,Galactic Highways (Original Mix),ANNA,Galactic Highways,Techno,MP3,14678677,357,2019,130.0,2021-10-10,3,ANNA - Galactic Highways (Original Mix),2A,Sharing-DB.com,2025-12-12 14:53:56
+36,The Dansant,ANNA,Speicher 101,Techno,MP3,16024950,400,0,126.0,2021-10-10,0,ANNA - The Dansant,12A,,2025-12-12 14:53:56
+37,Let Me Hear Ya,ANOTR,Let Me Hear Ya EP,"Deep Tech, Minimal",MP3,17111588,427,0,126.0,2021-10-10,8,ANOTR - Let Me Hear Ya,6A,,2025-12-12 14:53:56
+38,Jungle Disco (Riaz Dhanani Remix),Apollo 84,,Tech House,MP3,16167723,403,0,125.0,2021-10-10,2,Apollo 84 - Jungle Disco (Riaz Dhanani Remix),11B,,2025-12-12 14:53:56
+39,Aquarius (Original Mix),ARTBAT,,Melodic Techno,MP3,18918895,472,2019,122.0,2021-10-10,2,ARTBAT - Aquarius (Original Mix),8A,,2025-12-12 14:53:56
+40,Element (Original Mix),ARTBAT,,Melodic Techno,MP3,17803540,444,0,123.0,2021-10-10,0,ARTBAT - Element (Original Mix),9A,,2025-12-12 14:53:56
+41,Orbital (Original Mix),ARTBAT,,Melodic Techno,MP3,21890068,545,2019,123.0,2021-10-10,2,ARTBAT - Orbital (Original Mix),1A,,2025-12-12 14:53:56
+42,Papillon (Original Mix),ARTBAT,,Melodic Techno,MP3,17077163,426,0,122.0,2021-10-10,3,ARTBAT - Papillon (Original Mix),4A,,2025-12-12 14:53:56
+43,Prometheus (Original Mix),ARTBAT ,Planeta ,Melodic Techno,MP3,18901233,471,2018,124.0,2021-10-10,0,ARTBAT - Prometheus Original Mix,5B,,2025-12-12 14:53:56
+44,Upperground (Original Mix),ARTBAT,,Melodic Techno,MP3,16284682,405,2019,123.0,2021-10-10,5,ARTBAT - Upperground (Original Mix),6A,,2025-12-12 14:53:56
+45,Wall (Original Mix),ARTBAT,,Techno,MP3,22118996,545,0,124.0,2021-10-10,3,ARTBAT - Wall Original Mix,6A,,2025-12-12 14:53:56
+46,Best Of Me (Original Mix),"ARTBAT, Sailor & I",,Melodic Techno,MP3,22142461,553,2020,125.0,2021-10-10,0,"ARTBAT, Sailor & I - Best Of Me (Original Mix)",8A,,2025-12-12 14:53:56
+47,Closer,"ARTBAT, WhoMadeWho",Montserrat / Closer,Melodic Techno,MP3,18486733,460,0,125.0,2021-10-10,0,"ARTBAT, WhoMadeWho - Closer",2A,,2025-12-12 14:53:56
+48,Trancelate,Autarkic,Terms and Conditions,Melodic House,MP3,17309022,429,2020,119.0,2021-10-10,1,Autarkic - Trancelate,4A,,2025-12-12 14:53:56
+49,Jumpin (Original Mix),Avision,,Techno,MP3,16282585,405,2019,128.0,2021-10-10,1,Avision - Jumpin (Original Mix),3A,,2025-12-12 14:53:56
+50,On The Floor (Original Mix),Avision,,Techno,MP3,16503070,411,2018,128.02,2021-10-10,1,Avision - On The Floor (Original Mix),10A,,2025-12-12 14:53:56
+51,Aura (Original Mix),Avoure,,Progressive House,MP3,20944658,521,0,123.0,2021-10-10,0,Avoure - Aura (Original Mix),12A,,2025-12-12 14:53:56
+52,Jump N Shout (Erik Hagleton Remix),Basement Jaxx,,Tech House,MP3,15734944,392,2016,123.0,2021-10-10,0,Basement Jaxx - Jump N Shout (Erik Hagleton Remix),5A,,2025-12-12 14:53:56
+53,Bones (Be Svendsen's Rodeo Rerub),Be Svendsen,,Melodic House,MP3,29140639,714,0,121.0,2021-10-10,0,Be Svendsen - Bones (Be Svendsen's Rodeo Rerub),9A,,2025-12-12 14:53:56
+55,Directions Ft. Wevie Stonder (The Cirez D Edit),"BETON, Cirez D",,Techno,MP3,17715394,441,0,124.0,2021-10-10,1,BETON - Directions feat Wevie Stonder (The Cirez D Edit),6A,,2025-12-12 14:53:56
+56,Just Let Go (Original Mix),"Birds Of Mind, Zemira Israel",,Melodic House,MP3,15864806,396,2019,122.0,2021-10-10,1,"Birds Of Mind, Zemira Israel - Just Let Go (Original Mix)",5A,,2025-12-12 14:53:56
+57,Wish You Were Here (Guy Mantzur Remix),"Black Coffee, Msaki, Guy Mantzur",Wish You Were Here (Guy Mantzur Remix),Melodic House,MP3,20552669,513,0,120.0,2021-10-10,5,"Black Cofee, Msaki - Wish You Were Here (Guy Mantzur Remix)",8A,,2025-12-12 14:53:56
+58,Bad Speech (Original Mix),Blackchild (ITA),,Tech House,MP3,18196825,453,0,127.0,2021-10-10,5,Blackchild (ITA) - Bad Speech (Original Mix),11A,,2025-12-12 14:53:56
+59,Maven,"Bohemien, Raf Parola",Feeling It,Tech House,MP3,17678352,439,2018,124.0,2021-10-10,5,"Bohemien, Raf Parola - Maven",9A,,2025-12-12 14:53:56
+60,Visions (Stefano Noferini Remix),"Bontan, Stefano Noferini",Senses EP,Tech House,MP3,18991805,474,0,123.0,2021-10-10,2,Bontan - Visions (Stefano Noferini Remix),6A,,2025-12-12 14:53:56
+61,A Night in the Life Of feat. Lyke (Original Mix),Boxia,A Night in the Life Of,Melodic Techno,MP3,21000152,522,2019,128.0,2021-10-10,2,Boxia - A Night in the Life Of feat. Lyke (Original Mix),8A,Drumcode,2025-12-12 14:53:56
+62,Primal People (Original Mix),Boxia,A Night in the Life Of,Techno,MP3,16839368,417,2019,129.0,2021-10-10,2,Boxia - Primal People (Original Mix),1A,,2025-12-12 14:53:56
+63,Unofficial Everything (Original Mix),Boxia,A Night in the Life Of,Melodic Techno,MP3,16639792,412,2019,128.0,2021-10-10,1,Boxia - Unofficial Everything (Original Mix),9A,,2025-12-12 14:53:56
+64,The Spirit (Adriatique's 7am Remix),"The Butch, Adriatique",,Melodic House,MP3,18987509,474,2016,123.0,2021-10-10,2,Butch - The Spirit (Adriatique's 7am Remix),9A,,2025-12-12 14:53:56
+65,Don't Call me Baby [Edit],"Calum Percival, Jerome Withers",,"Deep Tech, Minimal",WAV,64221780,334,0,127.0,2021-10-10,4,"Calum Percival, Jerome Withers - Don't Call me Baby [Edit]",10A,,2025-12-12 14:53:56
+66,Im Not Alone (Thomas Schumacher Extended),"Calvin Harris, Thomas Schumacher",I'm Not Alone 2019 - Remixes,Techno,MP3,16492953,412,2019,128.0,2021-10-10,2,Calvin Harris - Im Not Alone (Thomas Schumacher Extended Remix),4A,,2025-12-12 14:53:56
+67,DMT (Original Mix),CamelPhat,,Techno,MP3,16840073,420,2018,125.62,2021-10-10,7,CamelPhat - DMT (Original Mix),12A,,2025-12-12 14:53:56
+68,Panic Room (Club Mix),CamelPhat Ft. AuRa ,,Melodic House,MP3,17093566,425,0,123.0,2021-10-10,0,CamelPhat & AuRa - Panic Room (CamelPhat Club Mix),5A,,2025-12-12 14:53:56
+69,Freak (Ft. Cari Golden) (Original Mix),"CamelPhat, Cari Golden",,Tech House,MP3,13376806,329,0,129.78,2021-10-10,1,CamelPhat Ft. Cari Golden - Freak (Original Mix),9A,,2025-12-12 14:53:56
+70,Be Someone (Original Mix),"CamelPhat, Jake Bugg",,Progressive House,MP3,8211066,204,2019,122.0,2021-10-10,0,Camelphat Ft. Jake Bugg - Be Someone (Original Mix),4A,,2025-12-12 14:53:56
+71,Dopamine Machine (Club Mix),"CamelPhat, Ali Love",Dopamine Machine,Tech House,MP3,20188446,498,2018,124.0,2021-10-10,2,"CamelPhat, Ali Love - Dopamine Machine (Club Mix)",2A,Defected Records,2025-12-12 14:53:56
+72,For A Feeling (Extended Mix),"CamelPhat, ARTBAT, Rhodes",,Melodic Techno,MP3,18617943,464,2020,122.0,2021-10-10,0,"CamelPhat, ARTBAT, Rhodes - For A Feeling (Extended Mix)",7B,,2025-12-12 14:53:56
+73,Breathe (feat. Jem Cooke) (Original Mix),CamelPhat & Cristoph,,Progressive House,MP3,17406170,433,2018,125.0,2021-10-10,2,"CamelPhat, Cristoph Ft. Jem Cooke - Breathe (Original Mix)",8A,,2025-12-12 14:53:56
+74,Cola (Original Mix),"CamelPhat, Elderbrook",,House,MP3,16669321,415,2018,122.0,2021-10-10,6,"CamelPhat, Elderbrook - Cola (Original Mix)",3A,,2025-12-12 14:53:56
+75,Ohh Baby (David Tort's Dub Tech Mix),"Nile Rodgers, Carl Cox",Space Ibiza 2016,Tech House,MP3,18135709,452,0,124.0,2021-10-10,1,Carl Cox - Ohh Baby (David Tort's Dub Tech Mix),11A,,2025-12-12 14:53:56
+76,Time for House Music - Original Mix,Carl Cox,Time for House Music,Tech House,MP3,18367074,458,0,126.0,2021-10-10,0,Carl Cox - Time for House Music (Original Mix),5B,,2025-12-12 14:53:56
+77,I Want You  (Forever) (Josh Butler Remix),"Carl Cox, Josh Butler",,Tech House,MP3,16956024,423,0,126.0,2021-10-10,1,Carl Cox- I Want You (Forever) (Josh Butler Remix),9A,,2025-12-12 14:53:56
+78,One Moment,Carloh,,"Deep Tech, Minimal",MP3,13836658,345,0,128.0,2021-10-10,7,Carloh - One Moment,11A,,2025-12-12 14:53:56
+79,KTM (Extended Mix),Gordo,,Tech House,MP3,12893332,307,0,125.0,2021-10-10,7,Carnage - KTM (Extended Mix),11A,,2025-12-12 14:53:56
+80,Light On (DJOKO & Rich Pinder Remix),Catsinka,,Tech House,MP3,15577171,375,0,124.0,2021-10-10,3,Catsinka - Light On (DJOKO & Rich Pinder Remix),7A,,2025-12-12 14:53:56
+81,Wave feat. ZENSOFLY & Maxville (Club Mix),Catz 'n Dogz,,Tech House,MP3,14670204,356,0,126.0,2021-10-10,0,"Catz'n Dogz, ZENSOFLY, Maxville - Wave (Club Mix)",1A,,2025-12-12 14:53:56
+82,2000 Freaks Come Out (Original Mix),"Cevin Fisher, Jack Back",,Tech House,MP3,16050436,400,2019,125.0,2021-10-10,1,"Cevin Fisher, Jack Back - 2000 Freaks Come Out (Original Mix)",9B,,2025-12-12 14:53:56
+83,Voices Of The Ancient (Keith Carnal Remix),Charlotte de Witte,,Techno,MP3,17138498,427,0,127.0,2021-10-10,6,Charlotte de Witte - Voices Of The Ancient (Keith Carnal Remix),8A,,2025-12-12 14:53:56
+84,Dirty Swing (Original Mix),Chinonegro,,"Deep Tech, Minimal",WAV,106336434,369,0,130.0,2021-10-10,1,Chinonegro - Dirty Swing (Original Mix),10A,,2025-12-12 14:53:56
+85,Locos,"Chinonegro, Panter (Arg), Edgar",Fusion,Tech House,MP3,17820785,444,0,123.0,2021-10-10,2,"Chinonegro, Panter (Arg), Edgar - Locos",11A,,2025-12-12 14:53:56
+86,I Remember,Chris Lake,,Tech House,MP3,13066348,321,0,126.0,2021-10-10,2,Chris Lake - I Remember (Extended Mix),6B,,2025-12-12 14:53:56
+87,"Lies, Deception, And Fantasy","Chris Lake, Lee Foss",,Tech House,MP3,13260738,330,0,124.0,2021-10-10,0,"Chris Lake, Lee Foss - Lies, Deception, And Fantasy",4A,,2025-12-12 14:53:56
+88,Free Your Body (Original Mix),"Chris Lake, Solardo",,Tech House,MP3,14509363,362,0,125.0,2021-10-10,4,"Chris Lake, Solardo - Free Your Body (Original Mix)",7A,,2025-12-12 14:53:56
+89,The Outsiders (T78 Remix),Christian Cambas,The Outsiders,Techno,MP3,15362963,381,0,127.0,2021-10-10,3,Christian Cambas - The Outsiders (T78 Remix),6A,,2025-12-12 14:53:56
+90,All I Want (Technasia Remix),Chus & Ceballos,,Tech House,MP3,16577350,413,0,125.0,2021-10-10,0,Chus & Ceballos - All I Want (Technasia Remix),4A,,2025-12-12 14:53:56
+91,Now or Never (Original Mix),Chus & Ceballos,,Tech House,MP3,20137753,503,2017,125.0,2021-10-10,0,Chus & Ceballos Ft. Cari Golden - Now or Never (Original Mix),4A,,2025-12-12 14:53:56
+92,Mamasitas,"Chus & Ceballos, Stefano Noferini",Miami 2015,Tech House,MP3,15663205,387,2015,124.0,2021-10-10,4,"Chus & Ceballos, Stefano Noferini - Mamasitas",5A,,2025-12-12 14:53:56
+93,THE GLITCH (Original Mix),CIREZ D,,Techno,MP3,23017433,564,0,126.0,2021-10-10,3,CIREZ D - THE GLITCH (Original Mix),5B,,2025-12-12 14:53:56
+94,No Eyes (feat. JAW),Claptone,Charmer,House,MP3,16755033,418,0,120.0,2021-10-10,0,"Claptone, JAW - No Eyes",4A,,2025-12-12 14:53:56
+95,Stay The Night (Mihalis Safras Remix),"Claptone, Tender",,Tech House,MP3,14802445,366,2018,126.0,2021-10-10,0,"Claptone, Tender - Stay The Night (Mihalis Safras Remix)",10B,,2025-12-12 14:53:56
+96,Comments (Original Mix),"Claude VonStroke, ZDS, KE",,Tech House,MP3,14777064,368,2019,126.0,2021-10-10,0,"Claude VonStroke, ZDS, KE - Comments (Original Mix)",4A,,2025-12-12 14:53:56
+97,Sternentreiben (Patrice Bäumel Remix),Claudio Ricci,,Techno,MP3,17906642,447,0,125.0,2021-10-10,2,"Claudio Ricci, Patrice Baumel - Sternentreiben (Patrice Baumel Remix)",4A,,2025-12-12 14:53:56
+98,Sun Goes Down (Extended Mix),Cloonee,,Tech House,MP3,15314611,367,2021,126.0,2021-10-10,0,Cloonee - Sun Goes Down (Extended Mix),1A,,2025-12-12 14:53:56
+99,Gravity (Original Mix),Colyn,,Melodic Techno,MP3,18649601,465,0,126.0,2021-10-10,1,Colyn - Gravity (Original Mix),8A,,2025-12-12 14:53:56
+100,Heat Cycle,Colyn,Binary Choices,Techno,MP3,17994413,447,0,127.0,2021-10-10,2,Colyn - Heat Cycle,8A,,2025-12-12 14:53:56
+101,Slowly Burning (2019) (Original Mix),"Cristoph, Jem Cooke",,Progressive House,MP3,18094500,451,0,125.0,2021-10-10,0,"Cristoph, Jem Cooke - Slowly Burning (2019) (Original Mix)",9A,,2025-12-12 14:53:56
+102,Aire Libre (Original Mix),Cuartero,Micromaya EP,"Deep Tech, Minimal",MP3,14881507,368,2019,126.0,2021-10-10,0,Cuartero - Aire Libre (Original Mix),3A,,2025-12-12 14:53:56
+103,El Repicar,Cuartero,,Tech House,MP3,16184633,401,2014,126.0,2021-10-10,1,Cuartero - El Repicar,1A,,2025-12-12 14:53:56
+104,Mama,Cuartero,Mama - EP,Tech House,MP3,16394530,409,0,123.0,2021-10-10,2,Cuartero - Mama,8A,,2025-12-12 14:53:56
+105,Manipulated (Original Mix),Cuartero,Dioneli EP,Tech House,MP3,15386094,380,2015,122.0,2021-10-10,0,Cuartero - Manipulated (Original Mix),4B,,2025-12-12 14:53:56
+106,Micromaya (Original Mix),Cuartero,Micromaya EP,"Deep Tech, Minimal",MP3,16150010,400,2019,127.0,2021-10-10,0,Cuartero - Micromaya (Original Mix),6A,,2025-12-12 14:53:56
+107,Pa Chu (Original Mix),Cuartero,Micromaya EP,Tech House,MP3,14540859,360,2019,128.0,2021-10-10,1,Cuartero - Pa Chu (Original Mix),9A,,2025-12-12 14:53:56
+108,Part Of The Beautiful (Original Mix),Cuartero,Micromaya EP,"Deep Tech, Minimal",MP3,17088365,424,2019,127.0,2021-10-10,2,Cuartero - Part Of The Beautiful (Original Mix),7A,,2025-12-12 14:53:56
+109,Try again (Cuartero edit),Cuartero,,"Deep Tech, Minimal",WAV,56096562,318,0,127.0,2021-10-10,1,Cuartero - Try again (Cuartero edit),6A,,2025-12-12 14:53:56
+110,Txirimiri (Original Mix),Cuartero,Daily EP,Tech House,MP3,22526245,559,2013,124.0,2021-10-10,1,Cuartero - Txirimiri (Original Mix),2A,,2025-12-12 14:53:56
+111,La Samba,"Cuartero, German Brigante",,Tech House,MP3,17055144,422,2015,125.0,2021-10-10,1,"Cuartero, German Brigante - La Samba",7A,,2025-12-12 14:53:56
+112,No Dancers (Adam Port Remix),"Cubicolor, Adam Port",,Melodic House,MP3,16598275,405,0,120.0,2021-10-10,1,Cubicolor - No Dancers (Adam Port Remix),11A,,2025-12-12 14:53:56
+113,All I Need To Get High (Ae-ther Dreaming Dub Remix),"Damian Lazarus,The Ancient Moons",,Melodic Techno,MP3,20383506,508,2019,125.0,2021-10-10,1,"Damian Lazarus, The Ancient Moons - All I Need To Get High (AETHER Dreaming Dub Remix)",11A,,2025-12-12 14:53:56
+114,Eyes of the Night (Original Mix),"Darius Syrossian, Jamie Jones",,Techno,MP3,17188573,428,2019,128.0,2021-10-10,3,"Darius Syrossian, Jamie Jones - Eyes of the Night (Original Mix)",12A,,2025-12-12 14:53:56
+115,Bass Play (Original Mix),"Darius Syrossian, Josh Butler",Metal EP,"Deep Tech, Minimal",MP3,16507683,411,2012,124.0,2021-10-10,0,"Darius Syrossian, Josh Butler - Bass Play (Original Mix)",10B,,2025-12-12 14:53:56
+116,No Rules - Max Chapman Remix,"De La Swing, Max Chapman",No Rules (Remixes),Tech House,MP3,17828131,445,0,125.0,2021-10-10,0,De La Swing - No Rules (Max Chapman Remix),6A,,2025-12-12 14:53:56
+117,Too Much Information [Laolu Remix (Edit)],"Dele Sosimi Afrobeat Orchestra, Laolu",,Melodic House,MP3,20499767,512,0,120.0,2021-10-10,2,Dele Sosimi Afrobeat Orchesta - Too Much Information [Laolu Remix (Edit)],2A,,2025-12-12 14:53:56
+118,Noise,"Denis Horvat, Lelah",Miracle Of The Rose EP,Melodic Techno,MP3,17815981,441,0,123.0,2021-10-10,0,Denis Horvat - Noise,4A,,2025-12-12 14:53:56
+119,Paradon (Original Mix),Denis Horvat,,Techno,MP3,20957256,522,2018,120.0,2021-10-10,1,Denis Horvat - Paradon (Original Mix),2A,,2025-12-12 14:53:56
+120,Pimiento Rojo (Original Mix),Dennis Cruz,,Tech House,MP3,15864334,389,0,124.0,2021-10-10,1,Dennis Cruz - Pimiento Rojo (Original Mix),3A,,2025-12-12 14:53:56
+121,El Sueno feat. Martina Camargo (Original Mix),Dennis Cruz,,Tech House,MP3,16066885,397,0,124.0,2021-10-10,5,Dennis Cruz Ft. Martina Camargo - El Sueno (Original Mix),10A,,2025-12-12 14:53:56
+122,La Calle,Detlef,Hold On,House,MP3,20039123,498,2011,124.0,2021-10-10,1,Detlef - La Calle,5A,,2025-12-12 14:53:56
+123,Music Please,Detlef,,Tech House,MP3,20280951,505,0,126.0,2021-10-10,1,Detlef - Music Please,4B,,2025-12-12 14:53:56
+124,Voy,Detlef,We Love This Groove 2,Tech House,MP3,21471502,535,2013,122.0,2021-10-10,0,Detlef - Voy,11A,,2025-12-12 14:53:56
+125,Last Night (EDIT),Di Chiara Brothers,,Tech House,MP3,14556518,363,0,128.0,2021-10-10,0,Di Chiara Brothers - Last Night (EDIT),8A,,2025-12-12 14:53:56
+126,Pump It (Original Mix),Di Chiara Brothers,,Tech House,MP3,14794674,368,0,127.0,2021-10-10,1,Di Chiara Brothers - Pump It (Original Mix),3A,,2025-12-12 14:53:56
+127,Lunar (Original Mix),Dimmish,,"Deep Tech, Minimal",MP3,19329867,480,2020,125.0,2021-10-10,3,Dimmish - Lunar (Original Mix),3A,,2025-12-12 14:53:56
+128,Apollo,Disclosure,Settle (Special Edition),Deep House,MP3,16309126,403,2014,125.0,2021-10-10,1,Disclosure - Apollo,9A,,2025-12-12 14:53:56
+129,Etran,"Disclosure, Etran Finatawa",Ecstasy,Afro House,MP3,12627274,309,2020,122.0,2021-10-10,0,Disclosure Ft. Etran Finatawa - Etran,4B,,2025-12-12 14:53:56
+130,Resist,DJ Boris,The Vision,Techno,MP3,17885383,446,0,125.0,2021-10-10,5,DJ Boris - Resist,3B,,2025-12-12 14:53:56
+131,Haidaku,Dj Fronter,Playa del Carmen 2015 (Compiled by Chus & Ceballos),Tech House,MP3,15627190,386,2015,125.0,2021-10-10,4,Dj Fronter - Haidaku,6A,,2025-12-12 14:53:56
+132,Wanna Make You (Original Mix),Dj Fronter,Wanna Make You,Tech House,MP3,18885851,468,2016,124.0,2021-10-10,2,Dj Fronter - Wanna Make You (Original Mix),3B,,2025-12-12 14:53:56
+133,Too Much Data (Patrick Topping Remix),"DJ Haus, Patrick Topping",Too Much Data,"Deep Tech, Minimal",MP3,14291812,356,0,128.0,2021-10-10,0,DJ Haus - Too Much Data (Patrick Topping Remix),11B,,2025-12-12 14:53:56
+134,San Frandisco (Extended Mix),Dom Dolla,,Tech House,MP3,12634398,314,0,125.0,2021-10-10,2,Dom Dolla - San Frandisco (Extended Mix),4A,,2025-12-12 14:53:56
+135,Take It (Sonny Fodera Extended Remix),"Dom Dolla, Sonny Fodera",Take It - Remixes,Tech House,MP3,16314362,407,0,123.0,2021-10-10,0,Dom Dolla - Take It (Sonny Fodera Extended Remix),6A,,2025-12-12 14:53:56
+136,Parola (Rework),"Donato Dozzy, Anna Caragnano",,Melodic Techno,MP3,17175987,428,2019,120.0,2021-10-10,0,"Donato Dozzy, Anna Caragnano- Parola (Rework)",12A,,2025-12-12 14:53:56
+137,Fuego (Julian Jeweil Remix),Dubfire & Oliver Huntemann,Elements Remixed,Techno,MP3,15827762,392,0,125.0,2021-10-10,4,Dubfire & Oliver Huntemann - Fuego (Julian Jeweil Remix),9A,,2025-12-12 14:53:56
+138,Humano (Victor Ruiz Remix),Oliver Huntemann,,Techno,MP3,20007415,499,0,125.0,2021-10-10,2,"Dubfire, Oliver Huntemann - Humano (Victor Ruiz Remix)",11A,,2025-12-12 14:53:56
+139,Stranger To Stability (Len Faki's Podium Mix),Dustin Zahn,F15teen Years of Goodgreef (The Anthems Collected),Techno,MP3,21964966,549,0,125.0,2021-10-10,0,"Dustin Zahn, Len Faki - Stranger To Stability (Len Faki's Podium Mix)",8A,,2025-12-12 14:53:56
+140,Reaktor,ELAX,,Tech House,MP3,16075945,401,0,124.0,2021-10-10,0,ELAX - Reaktor,8A,,2025-12-12 14:53:56
+141,3AM (Original Mix),Eli Brown,3AM EP,Tech House,MP3,14949429,373,0,125.0,2021-10-10,3,Eli Brown - 3AM (Original Mix),9A,,2025-12-12 14:53:56
+142,92 Thing (Original Mix),Eli Brown,,Techno,MP3,13554605,338,0,128.0,2021-10-10,2,Eli Brown - 92 Thing (Original Mix),2B,,2025-12-12 14:53:56
+143,Muscle Car,Eli Brown,,Tech House,MP3,13876620,345,0,125.0,2021-10-10,3,Eli Brown - Muscle Car,4A,,2025-12-12 14:53:56
+144,La Manguelena (Ft. Martina Camargo) [Original Mix],"Emanuele Esposito, Gianni Romano",,Tech House,MP3,14778690,367,0,124.0,2021-10-10,3,"Emanuele Esposito, Gianni Romano Ft. Martina Camargo - La Manguelena (Original Mix)",11B,,2025-12-12 14:53:56
+145,Pump It Up (Extended Mix),Endor,Pump It Up,Tech House,MP3,14571604,362,2019,129.0,2021-10-10,1,Endor - Pump It Up (Extended Mix),10A,,2025-12-12 14:53:56
+146,Astral Projection,Enrico Sangiuliano,Astral Projection - Single,Techno,MP3,19363125,484,0,125.0,2021-10-10,1,Enrico Sangiuliano - Astral Projection,1A,,2025-12-12 14:53:56
+147,Blooming Era,Enrico Sangiuliano,Astral Projection - Single,Techno,MP3,17318255,432,0,126.0,2021-10-10,5,Enrico Sangiuliano - Blooming Era,4A,,2025-12-12 14:53:56
+148,Moon Rocks,Enrico Sangiuliano,Moon Rocks,Techno,MP3,18144751,453,0,125.0,2021-10-10,1,Enrico Sangiuliano - Moon Rocks,2A,,2025-12-12 14:53:56
+149,Symbiosis,Enrico Sangiuliano,Biomorph,Techno,MP3,21355719,533,0,129.0,2021-10-10,1,Enrico Sangiuliano - Symbiosis,1A,,2025-12-12 14:53:56
+150,Paranoid (Original Mix),Eskuche,,Tech House,MP3,15185446,378,0,125.0,2021-10-10,0,Eskuche - Paranoid (Original Mix),9A,,2025-12-12 14:53:56
+151,Plastic Head TV (Original Mix),Fairmont,,Melodic Techno,MP3,16386767,408,2019,123.0,2021-10-10,0,Fairmont - Plastic Head TV (Original Mix),2A,,2025-12-12 14:53:56
+152,"Right Here, Right Now (CamelPhat Remix)","Fatboy Slim, CamelPhat",,Tech House,MP3,20154986,503,0,123.0,2021-10-10,0,"Fatboy Slim - Right Here, Right Now (CamelPhat Remix)",8A,,2025-12-12 14:53:56
+153,Crowd Control (Original Mix),FISHER,,Tech House,MP3,14174940,354,2018,125.0,2021-10-10,2,FISHER - Crowd Control (Original Mix),11A,,2025-12-12 14:53:56
+154,Freaks (Extended Mix),FISHER,,Tech House,MP3,15160345,376,2020,124.0,2021-10-10,0,FISHER - Freaks (Extended Mix),4A,,2025-12-12 14:53:56
+155,Losing It (Extended),FISHER,,Tech House,MP3,16175168,400,0,125.0,2021-10-10,3,FISHER - Losing It (Extended),6A,,2025-12-12 14:53:56
+156,Stop It (Original Mix),FISHER,,Tech House,MP3,15499886,387,0,124.0,2021-10-10,2,FISHER - Stop It (Original Mix),6A,,2025-12-12 14:53:56
+157,Wanna Go Dancin' (Extended Mix),FISHER,,Tech House,MP3,14600592,338,0,125.0,2021-10-10,2,FISHER - Wanna Go Dancin' (Extended Mix),8A,,2025-12-12 14:53:56
+158,Ya Kidding Original Mix,FISHER,Ya Kidding,Tech House,MP3,14922024,370,2017,125.0,2021-10-10,3,FISHER - Ya Kidding,1A,,2025-12-12 14:53:56
+159,You Little Beauty (Extended Mix),FISHER,,Tech House,MP3,15081901,372,2019,124.0,2021-10-10,0,FISHER - You Little Beauty (Extended Mix),6B,,2025-12-12 14:53:56
+160,Generate,Flash 89,Generate,Tech House,MP3,14586574,356,2017,124.0,2021-10-10,1,Flash 89 - Generate,7A,,2025-12-12 14:53:56
+161,Dreams (Saintès Edit),"Fleetwood Mac, Saintès",,"Deep Tech, Minimal",WAV,112520978,390,0,129.0,2021-10-10,2,"Fleetwood Mac, Saintès - Dreams (Saintès Edit)",9A,,2025-12-12 14:53:56
+162,The Scoop (Original Mix),Format-B,,Tech House,MP3,14612345,364,0,124.0,2021-10-10,1,Format-B - The Scoop (Original Mix),6A,,2025-12-12 14:53:56
+163,Poncho (Original Mix),Francisco Allendes,,Tech House,MP3,17103910,427,2020,127.0,2021-10-10,2,Francisco Allendes - Poncho (Original Mix),4A,,2025-12-12 14:53:56
+164,Caligula (Original Mix),"Francisco Allendes, Pablo Inzunza",,Tech House,MP3,18470825,457,2017,127.0,2021-10-10,4,Francisco Allendes Ft. Pablo Inzunza - Caligula (Original Mix),1A,,2025-12-12 14:53:56
+165,Esa Nena Quiere - Original Mix,"Francisco Allendes, Aldo Cadiz",Esa Nena EP,Tech House,MP3,17575071,438,0,125.0,2021-10-10,1,"Francisco Allendes, Aldo Cadiz - Esa Nena Quiere(Original Mix)",12A,,2025-12-12 14:53:56
+166,Llovizna (Original Mix),"Francisco Allendes, Felipe Venegas",,Melodic House,MP3,28268565,698,0,126.0,2021-10-10,2,"Francisco Allendes, Felipe Venegas - Llovizna (Original Mix)",11A,,2025-12-12 14:53:56
+167,Acamar,Frankey & Sandrino,,Melodic House,MP3,20160537,500,0,120.0,2021-10-10,2,Frankey & Sandrino - Acamar,9A,,2025-12-12 14:53:56
+168,Matchbox (Original Mix),Friend Within,,Tech House,MP3,11900741,296,2019,124.0,2021-10-10,3,Friend Within - Matchbox (Original Mix),6B,,2025-12-12 14:53:56
+169,Mulhouse (Original Mix),"George Privatti, DJ Christopher",,Tech House,MP3,17922466,441,0,124.0,2021-10-10,1,"George Privatti, DJ Christopher - Mulhouse (Original Mix)",6B,,2025-12-12 14:53:56
+170,El Gringo (Original Mix),"German Brigante, Cuartero",Ibiza Funkers E.P,Tech House,MP3,16801830,418,0,125.0,2021-10-10,3,"German Brigante, Cuartero - El Gringo (Original Mix)",6A,,2025-12-12 14:53:56
+171,Hysteria (Original Mix),Giacomo Renzi,,Techno,MP3,16665840,415,2018,128.0,2021-10-10,0,Giacomo Renzi - Hysteria (Original Mix),12A,,2025-12-12 14:53:56
+172,We Got the Power (Ft. Jehnny Beth) [Claptone Remix],"Gorillaz, Claptone",,House,MP3,14734067,364,0,122.0,2021-10-10,2,Gorillaz Ft. Jehnny Beth - We Got the Power (Claptone Remix),9A,,2025-12-12 14:53:56
+173,Flash (Eats Everything Remix),"Green Velvet, Eats Everything",,Techno,MP3,16470831,410,0,128.0,2021-10-10,1,Green Velvet - Flash (Eats Everything Remix),1A,,2025-12-12 14:53:56
+174,Deceiver (Extended Mix),"Green Velvet, Chris Lake",,Tech House,MP3,15723116,387,0,124.0,2021-10-10,2,"Green Velvet, Chris Lake - Deceiver (Extended Mix)",9A,Black Book Records,2025-12-12 14:53:56
+175,Microwave (Original Mix),"Green Velvet, Mihalis Safras",Microwave,Tech House,MP3,15078231,370,0,125.0,2021-10-10,1,"Green Velvet, Mihalis Safras - Microwave (Original Mix)",9A,Relief,2025-12-12 14:53:56
+176,Voicemail,"Green Velvet, Patrick Topping",Voicemail,Tech House,MP3,17528432,437,0,124.0,2021-10-10,4,"Green Velvet, Patrick Topping - Voicemail (Original Mix)",3A,,2025-12-12 14:53:56
+177,Canoa (Original Mix),"Gregor Salto, DJ Gregory",,Tech House,MP3,19058336,546,2016,127.0,2021-10-10,3,"Gregor Salto, DJ Gregory - Canoa (Original Mix)",11A,,2025-12-12 14:53:56
+178,Liquid Spirit (Claptone Remix),"Gregory Porter, Claptone",,House,MP3,15536669,383,0,121.0,2021-10-10,1,Gregory Porter - Liquid Spirit (Claptone Remix),9A,,2025-12-12 14:53:56
+179,What a Bam,"Guille Placencia, George Privatti",What a Bam,Tech House,MP3,16484819,411,0,122.0,2021-10-10,1,"Guille Placencia, George Privatti - What a Bam",3A,,2025-12-12 14:53:56
+180,40 Nights,Gumz,,Afro House,MP3,22529535,560,2020,123.0,2021-10-10,0,Gumz - 40 Nights,3A,,2025-12-12 14:53:56
+181,What To Do (&ME Remix),Guy Gerber,,Melodic House,MP3,20273409,504,0,122.0,2021-10-10,2,Guy Gerber - What To Do (&ME Remix),5A,,2025-12-12 14:53:56
+182,Doin It (Original Mix),Hector Couto,Salimo EP,Tech House,MP3,13918865,340,0,125.0,2021-10-10,1,Hector Couto - Doin It (Original Mix),12B,Sola,2025-12-12 14:53:56
+183,Fat Cut (Original Mix),Hector Couto,,Tech House,MP3,14227524,355,0,126.0,2021-10-10,7,Hector Couto - Fat Cut (Original Mix),6A,,2025-12-12 14:53:56
+184,Salimo (Original Mix),Hector Couto,Salimo EP,Tech House,MP3,13224008,323,0,126.0,2021-10-10,5,Hector Couto - Salimo (Original Mix),6A,Sola,2025-12-12 14:53:56
+185,Shut the F. Up (Original Mix),Hector Couto,Right on Time EP,Tech House,MP3,16308635,405,0,125.0,2021-10-10,1,Hector Couto - Shut the F. Up (Original Mix),1A,,2025-12-12 14:53:56
+186,"Sola por la Ciudad (Hernan Cattaneo, Soundexile Extended Mix)","Poncho, Karina Vismara, Hernan Cattaneo, Soundexile",,Progressive House,MP3,17421184,432,2020,120.0,2021-10-10,1,"Hernan Cattaneo, Soundexile - Sola por la Ciudad (Extended Mix)",11A,,2025-12-12 14:53:56
+187,Evolve or Die,Hot Since 82,Evolve or Die,Techno,MP3,19554973,488,0,124.0,2021-10-10,5,Hot Since 82 - Evolve or Die,11A,,2025-12-12 14:53:56
+188,Like You (Audiojack Ruff Cut),Hot Since 82,,Deep House,MP3,18117249,452,2018,123.0,2021-10-10,1,Hot Since 82 - Like You (Audiojack Ruff Cut),10A,,2025-12-12 14:53:56
+189,Veins,Hot Since 82,Damage _ Veins,Tech House,MP3,17768913,443,0,124.0,2021-10-10,2,Hot Since 82 - Veins,8A,,2025-12-12 14:53:56
+190,Voices,Hot Since 82,,Tech House,MP3,19409165,480,0,124.0,2021-10-10,0,Hot Since 82 - Voices,4B,,2025-12-12 14:53:56
+191,Buggin' (Original Mix),Hot Since 82,,Deep House,MP3,20373706,505,0,124.0,2021-10-10,2,Hot Since 82 Ft. Jem Cooke - Buggin' (Original Mix),9A,,2025-12-12 14:53:56
+192,S-Sound,"Hyperloop, Green Velvet",Mentalizm,Techno,MP3,18084128,450,0,128.0,2021-10-10,2,Hyperloop Ft. Green Velvet - S-Sound,6A,,2025-12-12 14:53:56
+193,Atonal,Ilario Alicante,Figures & Echoes,Techno,MP3,17247505,429,2018,129.0,2021-10-10,0,Ilario Alicante - Atonal,1A,,2025-12-12 14:53:56
+194,Awakened (Original Mix),Ilario Alicante,,Techno,MP3,17442685,430,2017,127.0,2021-10-10,0,Ilario Alicante - Awakened (Original Mix),5B,,2025-12-12 14:53:56
+195,Figure of Ra,Ilario Alicante,Figures Echoes,Techno,MP3,17122303,427,0,128.0,2021-10-10,0,Ilario Alicante - Figure of Ra,12B,,2025-12-12 14:53:56
+196,Vacaciones en Chile (Original Mix),Ilario Alicante,,Techno,MP3,23589293,589,0,127.0,2021-10-10,1,Ilario Alicante - Vacaciones en Chile (Original Mix),3A,,2025-12-12 14:53:56
+197,Grenade (original Mix),Jack Back,,Tech House,MP3,12757162,301,0,124.0,2021-10-10,1,Jack Back - Grenade (Original Mix),6A,,2025-12-12 14:53:56
+198,Bappi,"Jamie Jones, The Martinez Brothers",Bappi,Tech House,MP3,14181493,354,0,128.0,2021-10-10,1,"Jamie Jones, The Martinez Brothers - Bappi",12A,,2025-12-12 14:53:56
+199,Acid or Techno,Jauz,The Wise and The Wicked,Techno,MP3,12120008,295,2018,130.0,2021-10-10,0,Jauz - Acid or Techno,8B,,2025-12-12 14:53:56
+200,Resonance (Original Mix),Jay Lumen,Resonance,Techno,MP3,16808688,416,0,130.0,2021-10-10,3,Jay Lumen - Resonance (Original Mix),1A,,2025-12-12 14:53:56
+201,Ozone (Original Mix),"Jay Lumen, Delph",Resonance,Techno,MP3,19607970,486,0,130.0,2021-10-10,2,"Jay Lumen, Delph - Ozone (Original Mix)",8A,Octopus Records,2025-12-12 14:53:56
+202,If The Wind Could Speak (Tale Of Us Remix),Jean-Michel Jarre,,Melodic Techno,MP3,15723330,392,0,123.0,2021-10-10,1,Jean-Michel Jarre - If The Wind Could Speak (Tale Of Us Remix),9A,,2025-12-12 14:53:56
+203,Let Me Feel (Original Mix),Jeremy Olander,,Progressive House,MP3,16042988,400,0,126.0,2021-10-10,0,Jeremy Olander - Let Me Feel (Original Mix),6B,,2025-12-12 14:53:56
+204,Take You Higher (Original Mix),Joeski,,Tech House,MP3,15729348,379,0,124.0,2021-10-10,1,Joeski - Take You Higher (Original Mix),1A,,2025-12-12 14:53:56
+205,Awake,Joseph Capriati,,Techno,MP3,22406288,558,0,124.0,2021-10-10,5,Joseph Capriati - Awake,8A,,2025-12-12 14:53:56
+206,Galaxy Phase (Original Mix),Joyhauser,,Techno,MP3,17024240,424,2018,128.0,2021-10-10,3,Joyhauser - Galaxy Phase (Original Mix),8A,,2025-12-12 14:53:56
+207,Hold Me To The Light (Tale Of Us Remix),KAS:ST,Hold Me To The Light,Melodic Techno,MP3,15991664,398,2019,126.0,2021-10-10,1,KAS ST - Hold Me To The Light (Tale Of Us Remix),10A,,2025-12-12 14:53:56
+208,Muyè,"Keinemusik (Rampa, Adam Port, &ME)",You Are Safe,Afro House,MP3,18980610,470,2017,120.0,2021-10-10,2,"Keinemusik (Rampa, Adam Port, &Me) - Muyè",8A,,2025-12-12 14:53:56
+209,Grey,Kölsch,Speicher 93,Tech House,MP3,11760089,293,0,125.0,2021-10-10,0,Kölsch - Grey,9A,,2025-12-12 14:53:56
+210,Shoulder Of Giants,Kölsch,Shoulder Of Giants / Glypto,Melodic Techno,MP3,12040290,295,2020,125.0,2021-10-10,0,Kölsch - Shoulder Of Giants,6A,,2025-12-12 14:53:56
+211,The Lights (Original Mix),"Kölsch, Sasha",,Melodic Techno,MP3,16100689,399,0,127.0,2021-10-10,0,"Kölsch, Sasha - The Lights (Original Mix)",6A,,2025-12-12 14:53:56
+212,Let Me Try,"Kry Wolf, DJ Rae",,Tech House,MP3,13717652,342,0,124.0,2021-10-10,0,"Kry Wolf, DJ Rae - Let Me Try",11A,,2025-12-12 14:53:56
+213,My People (Original Mix),Kydus,,Tech House,MP3,18846040,466,0,124.0,2021-10-10,1,Kydus - My People (Original Mix),1A,,2025-12-12 14:53:56
+214,New York to Amsterdam (Original Mix),Layton Giordani,Phase II,Techno,MP3,16621377,410,0,128.0,2021-10-10,2,Layton Giordani - New York to Amsterdam (Original Mix),4A,Drumcode,2025-12-12 14:53:56
+216,Holographic Universe (Original Mix),Leftwing : Kody,Altered Awareness - EP,Techno,MP3,20120771,497,2014,124.0,2021-10-10,1,Leftwing & Kody - Holographic Universe (Original Mix),4A,,2025-12-12 14:53:56
+217,El Luchin (Victor Jara),Leo Rios,,"Deep Tech, Minimal",WAV,72004620,408,0,127.0,2021-10-10,2,Leo Rios - El Luchin (Victor Jara),7A,,2025-12-12 14:53:56
+218,She's A Bitch,Lonely,Sonora,Tech House,MP3,16138493,402,0,124.0,2021-10-10,2,Lonely - She's A Bitch,7A,,2025-12-12 14:53:56
+219,Midfield (Original Mix),"Luigi Madonna, Roberto Capuano",,Techno,MP3,18131714,449,0,125.0,2021-10-10,1,"Luigi Madonna, Roberto Capuano - Midfield (Original Mix)",10B,Second State,2025-12-12 14:53:56
+220,When the Lights Are Out,Maceo Plex,,Melodic Techno,MP3,17823614,444,0,128.0,2021-10-10,0,Maceo Plex - When the Lights Are Out,8A,,2025-12-12 14:53:56
+221,Contagious (Original mix),Malaa,Contagious - Single,Tech House,MP3,12188899,302,2017,123.0,2021-10-10,0,Malaa - Contagious (Original mix),5A,,2025-12-12 14:53:56
+222,Venezia (Original Mix),Malandra Jr.,,Melodic Techno,MP3,15582515,388,2019,123.0,2021-10-10,1,Malandra Jr. - Venezia (Original Mix),9A,,2025-12-12 14:53:56
+223,Sopaipillas Light (Original Mix),Marco Latrach,V.A: 1 Year Of Dood Records,Tech House,MP3,19075544,476,2013,123.0,2021-10-10,0,Marco Latrach - Sopaipillas Light (Original Mix),9A,,2025-12-12 14:53:56
+224,Work It (Soulwax Remix),"Marie Davidson, Soulwax",,Tech House,MP3,11370955,282,2019,125.0,2021-10-10,1,"Marie Davidson, Soulwax - Work It (Soulwax Remix)",9B,,2025-12-12 14:53:56
+225,Inocente (Original Mix),Mario Ochoa,,Techno,MP3,17445657,423,0,127.0,2021-10-10,0,Mario Ochoa - Inocente (Original Mix),4A,,2025-12-12 14:53:56
+226,Azure (Original Mix),Mark Alow,,Melodic House,MP3,16615180,413,0,122.0,2021-10-10,1,Mark Alow - Azure (Original Mix),4A,,2025-12-12 14:53:56
+227,Golden Tiger (Original),Mark Alow,,Organic House,MP3,18062342,447,0,122.0,2021-10-10,5,Mark Alow - Golden Tiger (Original Mix),9A,,2025-12-12 14:53:56
+228,White Tusk (Original),Mark Alow,,Organic House,MP3,20957116,519,0,122.0,2021-10-10,1,Mark Alow - White Tusk (Original Mix),7A,,2025-12-12 14:53:56
+229,Moving On (Original Mix),Mark Fanciulli,,Tech House,MP3,17300120,431,2018,125.0,2021-10-10,0,Mark Fanciulli - Moving On (Original Mix) [ClapCrate.me],8B,,2025-12-12 14:53:56
+230,Your Love (Original Club Mix),Mark Knight,Your Love,House,MP3,16121738,400,0,125.0,2021-10-10,2,Mark Knight - Your Love (Original Club Mix),2A,,2025-12-12 14:53:56
+231,Far Away (Original Mix),Mark Reeve,Far Away - DC187,Techno,MP3,15442386,385,2018,131.07,2021-10-10,3,Mark Reeve - Far Away (Original Mix),1A,,2025-12-12 14:53:56
+232,Run Back (Original Mix),Mark Reeve,,Techno,MP3,17113815,427,0,126.0,2021-10-10,0,Mark Reeve - Run Back (Original Mix),11A,,2025-12-12 14:53:56
+233,Woman of the Ghetto (Catz 'n Dogz Remix),"Marlena Shaw, Catz 'n Dogz",Woman of the Ghetto - Single,Tech House,MP3,14252548,356,0,124.0,2021-10-10,2,Marlena Shaw - Woman of the Ghetto (Catz 'n Dogz Remix),1A,,2025-12-12 14:53:56
+234,Hooked (Extended),Martin Ikin,,Tech House,MP3,14139481,352,2019,126.0,2021-10-10,3,Martin Ikin - Hooked (Extended),4A,,2025-12-12 14:53:56
+235,Love Stream (Original Mix) ,Mat.Joe,,House,MP3,16988708,423,0,124.0,2021-10-10,3,Mat.Joe - Love Stream (Original Mix),1A,,2025-12-12 14:53:56
+236,Apollo 11 (Original Mix),"Matador, ARTBAT",Apollo 11,Techno,MP3,18852807,464,0,125.0,2021-10-10,4,"Matador, ARTBAT - Apollo 11 (Original Mix)",6A,,2025-12-12 14:53:56
+237,22 (Original Mix),Mathame,,Melodic Techno,MP3,15177075,378,0,127.0,2021-10-10,1,Mathame - 22 (Original Mix),4A,,2025-12-12 14:53:56
+238,Departure (Tale Of Us Intro Edit),Mathame,,Melodic Techno,MP3,15854162,395,0,125.29,2021-10-10,0,Mathame - Departure (Tale Of Us Intro Edit),9A,,2025-12-12 14:53:56
+239,Fade In To You,Mathame,Nothing Around Us EP,Melodic Techno,MP3,15498047,387,0,124.0,2021-10-10,0,Mathame - Fade In To You (Original Mix),10A,,2025-12-12 14:53:56
+240,Farewell (Original Mix),Mathame,Realm Of Consciousness Pt. IV,Melodic Techno,MP3,19448932,485,0,129.0,2021-10-10,0,Mathame - Farewell (Original Mix),6A,,2025-12-12 14:53:56
+241,For Every Forever (Original Mix),Mathame,,Melodic Techno,MP3,15322404,382,0,128.0,2021-10-10,0,Mathame - For Every Forever (Original Mix),9A,,2025-12-12 14:53:56
+242,Nothing Around Us Ft. Lyke (Original Mix),Mathame,,Melodic Techno,MP3,13878316,345,0,125.0,2021-10-10,0,Mathame - Nothing Around Us feat Lyke (Original Mix),3A,,2025-12-12 14:53:56
+243,Skywalking (Original Mix),Mathame,,Melodic Techno,MP3,15043305,374,2019,127.0,2021-10-10,0,Mathame - Skywalking (Original Mix),6A,,2025-12-12 14:53:56
+244,Stairway 3000 (Original Mix),Mathame,For Every Forever EP,Techno,MP3,18517140,453,0,127.0,2021-10-10,0,Mathame - Stairway 3000 (Original Mix),11A,,2025-12-12 14:53:56
+245,Crack Body,Matt Sassari,Crack Body EP,Techno,MP3,14855604,369,0,126.0,2021-10-10,3,Matt Sassari - Crack Body,2A,,2025-12-12 14:53:56
+246,Concrete,Matthias Tanzmann,,Tech House,MP3,15627344,388,0,124.0,2021-10-10,0,Matthias Tanzmann - Concrete,4A,,2025-12-12 14:53:56
+247,Formanto (Original Mix),Max Chapman,Formanto,Tech House,MP3,16254663,398,0,126.0,2021-10-10,2,Max Chapman - Formanto (Original Mix),3A,Sola,2025-12-12 14:53:56
+248,Got The Fire (Original Mix),Michael Bibi,,Tech House,MP3,16202150,403,0,124.0,2021-10-10,3,Michael Bibi - Got The Fire (Original Mix),4A,,2025-12-12 14:53:56
+249,Hanging Tree (Original Mix),Michael Bibi,,Tech House,MP3,14962368,371,0,127.0,2021-10-10,4,Michael Bibi - Hanging Tree (Original Mix),8A,,2025-12-12 14:53:56
+250,Love Away (Original Mix),Mihalis Safras,Love Away,Tech House,MP3,16666017,414,2018,125.0,2021-10-10,2,Mihalis Safras - Love Away (Original Mix),11A,Relief,2025-12-12 14:53:56
+251,Gravity,Mind Against,Realm Of Consciousness,Melodic Techno,MP3,17977932,449,0,123.0,2021-10-10,0,Mind Against - Gravity,4A,,2025-12-12 14:53:56
+252,Freeze (Original Mix),Mirco Caruso,,Tech House,MP3,18269254,456,2017,123.0,2021-10-10,0,Mirco Caruso - Freeze (Original Mix),1A,,2025-12-12 14:53:56
+253,Bob (Original Mix),Monkey Safari,,Melodic House,MP3,22390260,559,0,125.0,2021-10-10,0,Monkey Safari - Bob (Original Mix),3A,,2025-12-12 14:53:56
+254,Return to Oz (ARTBAT Remix),"Monolink, ARTBAT",,Melodic Techno,MP3,19209013,479,0,124.0,2021-10-10,0,Monolink - Return to Oz (ARTBAT Remix),7A,,2025-12-12 14:53:56
+255,Swallow (Tale Of Us Remix),Monolink,,Melodic Techno,MP3,17872856,445,2018,124.0,2021-10-10,1,Monolink - Swallow (Tale Of Us Remix),11A,,2025-12-12 14:53:56
+256,Casacorba,Neverdogs,Istrana,"Deep Tech, Minimal",MP3,18632290,460,2011,125.0,2021-10-10,3,Neverdogs - Casacorba,4A,,2025-12-12 14:53:56
+257,Deep Like You (Vocal Mix),Neverdogs,Deep Like You,Deep House,MP3,18691693,465,2013,126.0,2021-10-10,0,Neverdogs - Deep Like You (Vocal Mix),5A,,2025-12-12 14:53:56
+258,Week (Original Mix),Neverdogs,Week EP,"Deep Tech, Minimal",MP3,17108817,424,2014,123.0,2021-10-10,2,Neverdogs - Week (Original Mix),5A,,2025-12-12 14:53:56
+259,Movin' On (Original Mix),Nic Fanciulli,,Tech House,MP3,17341756,433,0,125.0,2021-10-10,1,Nic Fanciulli - Movin' On (Original Mix),2A,,2025-12-12 14:53:56
+260,Star (Original Mix),"Nic Fanciulli, Mark Fanciulli",,Tech House,MP3,16203944,403,0,125.0,2021-10-10,2,"Nic Fanciulli, Mark Fanciulli - Star (Original Mix)",8B,,2025-12-12 14:53:56
+261,Solaris - Extended Mix,"Nico Morano, Jinadu",Solaris,Melodic House,MP3,15570545,388,0,120.0,2021-10-10,0,Nico Morano - Solaris (Extended Mix),4A,,2025-12-12 14:53:56
+262,Love Someone Else,"Nicole Moudaber, Skunk Anansie",Love Someone Else (Nicole Moudaber vs. Skunk Anansie),Techno,MP3,17250153,430,0,124.0,2021-10-10,0,Nicole Moudaber - Love Someone Else,4B,,2025-12-12 14:53:56
+263,Finder (Carl Cox Remix),Ninetoes,,Tech House,MP3,21230637,530,2018,126.0,2021-10-10,4,Ninetoes - Finder (Carl Cox Remix),9A,,2025-12-12 14:53:56
+264,Finder (Original Mix),Ninetoes,,Deep House,MP3,14076146,351,0,121.01,2021-10-10,2,Ninetoes - Finder (Original Mix),9A,,2025-12-12 14:53:56
+265,"Madretierra (TolinchiLove, Vitu Valera & Vazdra Remix)","Novalima, TolinchiLove, Vitu Valera & Vazdra",,House,MP3,16562310,410,2021,124.0,2021-10-10,1,"Novalima - Madretierra (TolinchiLove, Vitu Valera & Vazdra Remix)",9A,,2025-12-12 14:53:56
+266,Touches (Mind Against Edit),"Nthng, Mind Against",,Techno,MP3,20990207,519,0,128.0,2021-10-10,0,Nthng - Touches (Mind Against Edit),7A,,2025-12-12 14:53:56
+267,Who Loves The Sun (Original Mix),"Nu, Joke",Bar 25 - Greatest Hits,Afro House,MP3,23116160,562,0,120.0,2021-10-10,1,Nu Joke - Who Loves The Sun (Original Mix),2A,Bar 25 Music,2025-12-12 14:53:56
+268,Flauta - Original Mix,OC Verde,Flauta EP,Techno,MP3,19246192,480,0,124.0,2021-10-10,1,OC Verde - Flauta (Original Mix),12A,,2025-12-12 14:53:56
+269,Soldier (Club Mix),OFFAIAH,,Tech House,MP3,14387161,358,0,123.0,2021-10-10,2,OFFAIAH - Soldier (Club Mix),9A,,2025-12-12 14:53:56
+270,Rotlicht,Oliver Huntemann,Propaganda,Techno,MP3,18859079,471,0,124.0,2021-10-10,3,Oliver Huntermann - Rotlicht,1A,,2025-12-12 14:53:56
+271,Bipolar Star (Victor Ruiz Remix),"Olivier Giacomotto, Victor Ruiz",,Techno,MP3,18432991,460,2018,124.48,2021-10-10,2,Olivier Giacomotto - Bipolar Star (Victor Ruiz Remix),11A,,2025-12-12 14:53:56
+272,Reste (Original Mix),"Olivier Giacomotto, Noir",,Melodic Techno,MP3,19711564,492,0,123.0,2021-10-10,0,"Olivier Giacomotto, Noir - Reste (Original Mix)",5A,,2025-12-12 14:53:56
+273,Domino (Rework),Oxia,,Techno,MP3,18474423,459,0,126.0,2021-10-10,2,Oxia - Domino (Rework),5B,,2025-12-12 14:53:56
+274,Altro Mondo,"Pablo Inzunza, Lonely",Rotary,Tech House,MP3,18797098,469,0,127.0,2021-10-10,1,"Pablo Inzunza, Lonely - Altro Mondo",7B,,2025-12-12 14:53:56
+275,Lose Yourself,Pan-Pot,Solace,Techno,MP3,17090271,426,0,127.0,2021-10-10,0,Pan Pot - Lose Yourself,5A,,2025-12-12 14:53:56
+276,Smoking I Wait (Ft. Sara Montiel),Paskman,,"Deep Tech, Minimal",MP3,10951661,273,2019,126.0,2021-10-10,2,Paskman - Smoking I  Wait (Ft. Sara Montiel),8A,,2025-12-12 14:53:56
+277,Receiver (Original Mix),Patrice Baumel,,Techno,MP3,15985790,399,0,127.0,2021-10-10,1,Patrice Baumel - Receiver (Original Mix),7A,,2025-12-12 14:53:56
+278,Roar (Adana Twins Remix),Patrice Baumel,,Melodic Techno,MP3,19823061,494,2018,123.0,2021-10-10,0,Patrice Baumel - Roar (Adana Twins Remix),3B,,2025-12-12 14:53:56
+279,Be Sharp Say Nowt - Original Mix,Patrick Topping,Be Sharp Say Nowt,Tech House,MP3,17772633,444,0,126.0,2021-10-10,5,Patrick Topping - Be Sharp Say Nowt (Original Mix),4B,,2025-12-12 14:53:56
+280,Forget (Original Mix),Patrick Topping,Boxed Off,Tech House,MP3,14946539,369,2014,123.0,2021-10-10,0,Patrick Topping - Forget (Original Mix),6A,,2025-12-12 14:53:56
+281,When Is Now,"Patrick Topping, Green Velvet",Now,"Deep Tech, Minimal",MP3,12680535,315,2015,122.0,2021-10-10,2,"Patrick Topping, Green Velvet - When Is Now",1A,,2025-12-12 14:53:56
+282,Touchdown (Original Mix),"Paul C, Paolo Martini",,Tech House,MP3,14870156,371,2017,124.0,2021-10-10,2,"Paul C, Paolo Martini - Touchdown (Original Mix)",9A,,2025-12-12 14:53:56
+283,Sky and Sand,Paul Kalkbrenner,Berlin Calling (The Soundtrack by Paul Kalkbrenner),Melodic Techno,MP3,9357430,230,0,127.0,2021-10-10,0,Paul Kalkbrenner - Sky and Sand,3B,,2025-12-12 14:53:56
+284,Run Baby Run (Original Mix),Paul Ritch,,Techno,WAV,88387020,501,0,126.0,2021-10-10,0,Paul Ritch - Run Baby Run (Original Mix),11A,,2025-12-12 14:53:56
+285,Bembé,"PAUZA, Machiran",,Tech House,MP3,8022775,197,2020,123.0,2021-10-10,0,Pauza Ft. Machiran - Bembé,1A,,2025-12-12 14:53:56
+286,Ayahuasca (Original Mix),Pavel Petrov,Breath,Tech House,MP3,17043934,425,0,121.0,2021-10-10,0,Pavel Petrov - Ayahuasca (Original Mix),10A,,2025-12-12 14:53:56
+287,Estamos Aqui,PAWSA,2018 Ibiza Sampler,"Deep Tech, Minimal",MP3,13489600,334,2018,127.0,2021-10-10,1,PAWSA - Estamos Aqui,2B,,2025-12-12 14:53:56
+288,Han Pan (Original Mix),Peggy Gou,Moment EP,Nu Disco,MP3,16143816,401,2019,126.0,2021-10-10,4,Peggy Gou - Han Pan (Original Mix),11A,Gudu Records,2025-12-12 14:53:56
+289,Starry Night (Original Mix),Peggy Gou,Moment EP,Nu Disco,MP3,16019469,398,2019,123.0,2021-10-10,2,Peggy Gou - Starry Night (Original Mix) - (Gudu Records),1A,Gudu Records,2025-12-12 14:53:56
+290,Let's All Pray For This World (Maceo Plex Glitchy Remix),Perry Farrell,,Melodic Techno,MP3,13764501,340,0,128.0,2021-10-10,0,"Perry Farrell, Maceo Plex - Lets All Pray For This World (Maceo Plex Glitchy Remix)",7A,,2025-12-12 14:53:56
+291,Growler (Original Mix),Pig & Dan,,Techno,MP3,17594554,438,0,125.0,2021-10-10,0,"Pig, Dan - Growler (Original Mix)",8A,,2025-12-12 14:53:56
+292,Let's Play It Again (Original Mix),Pimpo Gama,,Tech House,MP3,13785552,344,0,124.0,2021-10-10,2,Pimpo Gama - Let s Play It Again (Original Mix),4A,,2025-12-12 14:53:56
+293,Modular vs LFO (Original Mix),Pimpo Gama,,Tech House,MP3,15924515,396,0,124.0,2021-10-10,0,Pimpo Gama - Modular vs LFO (Original Mix),12B,,2025-12-12 14:53:56
+294,Body Funk (Dom Dolla Extended Mix),"Purple Disco Machine, Dom Dolla",,Tech House,MP3,15227749,380,0,124.0,2021-10-10,0,Purple Disco Machine - Body Funk (Dom Dolla Extended Mix),7A,,2025-12-12 14:53:56
+295,Distraido - Original Mix,Rafa Barrios,Distraido,Tech House,MP3,16336697,407,0,126.0,2021-10-10,1,Rafa Barrios - Distraido (Original Mix),3B,,2025-12-12 14:53:56
+296,Uplift (Original Mix),"Rafael Cerato, ARTBAT",,Melodic Techno,MP3,19204718,480,2017,124.0,2021-10-10,1,"Rafael Cerato, ARTBAT - Uplift (Original Mix)",6A,,2025-12-12 14:53:56
+297,Dancer,Raffa FL,,Tech House,WAV,61457808,348,0,124.0,2021-10-10,0,Raffa FL - Dancer,6A,,2025-12-12 14:53:56
+298,How We Do (Raffa FL Re Edit),"Raffa Fl, Mr V",,Tech House,MP3,12165500,302,0,123.0,2021-10-10,1,Raffa FL - How We Do (Mr V - Raffa FL Re edit),6A,,2025-12-12 14:53:56
+299,Pachamama (Original Mix),"Ramiro Lopez, Andres Campo",,Techno,MP3,16778771,418,2017,125.0,2021-10-10,2,"Ramiro Lopez, Andres Campo - Pachamama (Original Mix)",4A,,2025-12-12 14:53:56
+300,Sonic Therapy,Ramon Tapia,,Techno,MP3,18165867,454,0,127.0,2021-10-10,3,Ramon Tapia - Sonic Therapy (Original Mix),9A,,2025-12-12 14:53:56
+301,Tell Me Are We,"Rampa, Whomadewho",,Melodic House,MP3,16536748,413,0,122.0,2021-10-10,0,Rampa Ft. Whomadewho - Tell Me Are We,3A,,2025-12-12 14:53:56
+302,Atomic Fireblast (Original Mix),"Raumakustik, Pete Kaltenburg",,Tech House,MP3,17276407,429,0,127.0,2021-10-10,1,"Raumakustik, Pete Kaltenburg - Atomic Fireblast (Original Mix)",9B,,2025-12-12 14:53:56
+303,Along Came Polly (Original Mix),Rebuke,,Tech House,MP3,15589111,389,0,124.0,2021-10-10,2,Rebuke - Along Came Polly  (Original mix),6A,,2025-12-12 14:53:56
+304,Rattle (Original Mix),Rebuke,,Techno,MP3,16397286,408,0,128.0,2021-10-10,2,Rebuke - Rattle (Original Mix),5A,,2025-12-12 14:53:56
+305,Volcan,Rhymos,Control Chaos - - EP,Tech House,MP3,17966067,449,0,125.0,2021-10-10,3,Rhymos - Volcan,1A,,2025-12-12 14:53:56
+306,Terrace Games (Extended Mix),"Riaz Dhanani, C.O.Z",,Tech House,MP3,14697512,366,0,126.0,2021-10-10,0,"Riaz Dhanani, C.O.Z - Terrace Games (Extended Mix)",3A,,2025-12-12 14:53:56
+307,Brighten Up Bunny (Original Mix),Rod,,Melodic Techno,MP3,15344963,375,0,128.0,2021-10-10,0,Rod - Brighten Up Bunny (Original Mix),8A,,2025-12-12 14:53:56
+308,Perpetual Groove,"Roog, Leon Benesty",Perpetual Groove,Tech House,MP3,14349704,358,0,123.0,2021-10-10,1,"Roog, Leon Benesty - Perpetual Groove",4A,,2025-12-12 14:53:56
+309,Con Altura (Juanjo Martin Remix),"Rosalia, Juanjo Martin Remix",,Tech House,MP3,12626592,315,0,124.0,2021-10-10,2,"Rosalia, J Balvin, El Guincho  - Con Altura (Juanjo Martin Remix) TEST4",4A,,2025-12-12 14:53:56
+310,Innerbloom (Original Mix),Rufus Du Sol,,Melodic House,MP3,23394533,578,0,122.0,2021-10-10,0,Rüfüs - Innerbloom (Original Mix),6A,,2025-12-12 14:53:56
+311,Fire in My Arms,Sam Paganini,Body to Body,Techno,MP3,15032431,375,0,125.0,2021-10-10,5,Sam Paganini - Fire in My Arms,12A,,2025-12-12 14:53:56
+312,Flow (Original mix),Sam Paganini,The Beat,Tech House,MP3,14879262,370,2016,125.0,2021-10-10,1,Sam Paganini - Flow (Original mix),6A,,2025-12-12 14:53:56
+313,Mega (Original mix),Sam Paganini,The Beat,Techno,MP3,14176792,352,2016,128.0,2021-10-10,2,Sam Paganini - Mega (Original mix),8A,,2025-12-12 14:53:56
+314,Rave,Sam Paganini,Satellite,Techno,MP3,16312206,407,0,125.0,2021-10-10,2,Sam Paganini - Rave,3A,,2025-12-12 14:53:56
+315,Surrender (Original mix),Sam Paganini,The Beat,Techno,MP3,14649885,364,2016,127.0,2021-10-10,1,Sam Paganini - Surrender (Original mix),11A,,2025-12-12 14:53:56
+316,The Beat (Original mix),Sam Paganini feat. Zøe,The Beat,Techno,MP3,18860582,469,2016,128.0,2021-10-10,0,Sam Paganini feat. Zøe - The Beat (Original mix),9B,,2025-12-12 14:53:56
+317,Heater (Tube & Berger Remix),Samim,,Tech House,MP3,16630683,415,2019,125.0,2021-10-10,3,Samim - Heater (Tube & Berger Remix),11A,,2025-12-12 14:53:56
+318,Ooh Tune,Shadow Child,Ooh Tune/Higher,House,MP3,13288147,331,0,125.0,2021-10-10,2,Shadow Child - Ooh Tune,6A,,2025-12-12 14:53:56
+319,Ruffline,Sidney Charles,Ruffline Ep,Tech House,MP3,17653593,441,0,123.0,2021-10-10,2,Sidney Charles - Ruffline,6A,,2025-12-12 14:53:56
+320,God Made Me Feel It (Claptone Edit),"Simion,MD X-Spress, Claptone",,House,MP3,12980801,319,2016,122.0,2021-10-10,3,"Simion,MD X-Spress, Claptone - God Made Me Feel It (Claptone Edit)",6A,,2025-12-12 14:53:56
+321,Be Somebody (Extended Mix),Solardo,,Tech House,MP3,17373341,434,0,125.0,2021-10-10,0,Solardo - Be Somebody (Extended Mix),10A,,2025-12-12 14:53:56
+322,Mental Atmosphere,Solardo,On the Corner - EP,Tech House,MP3,17804118,445,0,124.0,2021-10-10,1,Solardo - Mental Atmosphere,4A,,2025-12-12 14:53:56
+323,On The Corner (Original Mix),Solardo,,Tech House,MP3,17286668,430,0,125.0,2021-10-10,4,Solardo - On The Corner (Original Mix),5B,,2025-12-12 14:53:56
+324,Tribesmen (Original Mix),Solardo,Tribesmen,Tech House,MP3,17640257,437,2016,124.0,2021-10-10,0,Solardo - Tribesmen (Original Mix),7B,,2025-12-12 14:53:56
+325,XTC (Extended Mix),"Solardo, Eli Brown",,Tech House,MP3,16937993,423,0,128.0,2021-10-10,1,"Solardo, Eli Brown - XTC (Extended Mix)",2A,,2025-12-12 14:53:56
+326,Move Your Body (Extended Mix),"Solardo, Marshall Jefferson",,House,MP3,14971224,373,0,125.0,2021-10-10,1,"Solardo, Marshall Jefferson - Move Your Body (Extended Mix)",9A,,2025-12-12 14:53:56
+327,Home (Club Mix),Solomun,,Melodic Techno,MP3,16066662,401,2020,120.0,2021-10-10,0,Solomun - Home (Club Mix),6A,,2025-12-12 14:53:56
+328,Keep Control (ARTBAT Remix),"Sono, ARTBAT",,Melodic Techno,MP3,20126096,483,0,123.0,2021-10-10,1,Sono - Keep Control (ARTBAT Remix),6A,,2025-12-12 14:53:56
+329,Needs (Original Mix),Sosa,Sonar 2019,Tech House,MP3,18323233,455,0,126.0,2021-10-10,7,Sosa - Needs (Original Mix),9A,,2025-12-12 14:53:56
+330,"Music Sounds Better With You (12"" Club Mix)",Stardust,,French House,MP3,16550247,411,1998,123.92,2021-10-10,0,Stardust - Music Sounds Better With You (12 Club Mix),2B,,2025-12-12 14:53:56
+331,Timisoara,"Stefano Noferini, Habits",,Tech House,MP3,21058177,525,0,124.0,2021-10-10,0,"Stefano Noferini, Habits - Timisoara (Original Mix)",11B,,2025-12-12 14:53:56
+332,Break The Beat,Stefano Ranieri,Break The Beat EP,Tech House,MP3,17622657,440,0,125.0,2021-10-10,0,Stefano Ranieri - Break The Beat,12B,,2025-12-12 14:53:56
+333,Strand (Original Mix),Stephan Bodzin,,Melodic Techno,MP3,19103015,468,0,122.0,2021-10-10,0,Stephan Bodzin - Strand (Original Mix),7A,,2025-12-12 14:53:56
+334,Analogy (Original Mix),Stephan Jolk,,Melodic Techno,MP3,16473393,400,0,123.0,2021-10-10,2,Stephan Jolk - Analogy (Original Mix),8A,,2025-12-12 14:53:56
+335,Changes (Adam Port Remix),"Stereo Mc's, Adam Port",,Melodic House,MP3,19976229,499,2018,122.0,2021-10-10,2,"Stereo Mc's, Adam Port - Changes (Adam Port Remix)",9A,,2025-12-12 14:53:56
+336,Really Really (Original Mix),Super Flu,,Tech House,MP3,17872452,444,0,122.0,2021-10-10,0,Super Flu - Really Really (Original Mix),12A,,2025-12-12 14:53:56
+337,Nova,Tale Of Us,Realm Of Consciousness Pt. III,Melodic Techno,MP3,17768448,442,2018,123.0,2021-10-10,1,Tale Of Us - Nova,6A,,2025-12-12 14:53:56
+338,Adieu (Original Mix),Tchami,,House,MP3,16685894,413,2017,126.0,2021-10-10,0,Tchami - Adieu (Original Mix),10A,,2025-12-12 14:53:56
+339,Suga (Original Mix),"Technasia, Green Velvet",,Tech House,MP3,16097262,402,0,125.0,2021-10-10,1,"Technasia, Green Velvet - Suga (Original Mix)",4A,,2025-12-12 14:53:56
+340,Analogue Odyssey (Audiofly Remix),"Thankyou city, Audiofly",Analogue Odyssey,Melodic Techno,MP3,22163603,552,2018,118.0,2021-10-10,0,"Thankyou City, Audiofly - Analogue Odyssey (Audiofly Remix)",10B,,2025-12-12 14:53:56
+341,Turning Around (Gerd Janson Remix),"Theo Kottis, Gerd Janson",,Melodic Techno,MP3,16605398,410,2020,124.0,2021-10-10,0,The Kottis - Turning Around (Gerd Janson Remix),4B,,2025-12-12 14:53:56
+342,Tech-Disco (Carlos Maza Remix),"The Mae, Carlos Maza",,Tech House,MP3,14867468,370,0,127.0,2021-10-10,1,The Mae - Tech-Disco (Carlos Maza Remix),11B,,2025-12-12 14:53:56
+343,ILEMBE (Original Mix),THEMBA,,Afro House,MP3,16235881,403,2019,124.0,2021-10-10,1,THEMBA SA - ILEMBE (Original Mix),5A,,2025-12-12 14:53:56
+344,Welcome To The Jungle (Andrea Oliva Remix),"Thick Dick, Andrea Oliva",Welcome To The Jungle (Andrea Oliva Remix),Tech House,MP3,18333130,457,0,126.0,2021-10-10,3,"Thick Dick, Andrea Oliva - Welcome To The Jungle (Andrea Oliva Remix)",6A,,2025-12-12 14:53:56
+345,Sume Sigh Sey (Agent Orange DJ & Alexander Technique Rework),"Todd Terry, House Of Gypsies",,Techno,MP3,17629581,439,0,128.0,2021-10-10,2,"Todd Terry, House Of Gypsies - Sume Sigh Sey (Agent Orange DJ & Alexander Technique Rework)",11A,,2025-12-12 14:53:56
+346,Hit The Drum (Extended Mix),Tom & Collins,,Tech House,MP3,13063075,316,2020,125.0,2021-10-10,4,Tom & Collins - Hit The Drums (Extended Mix),9A,,2025-12-12 14:53:56
+347,Sombrerito (Original Mix),Tom & Collins,,Tech House,WAV,66855644,378,0,124.0,2021-10-10,1,Tom & Collins - Sombrerito (Original Mix),11A,,2025-12-12 14:53:56
+348,25 Cents (Extended Mix),Tuff London,25 Cents EP,Tech House,MP3,16223014,404,0,124.0,2021-10-10,5,Tuff London - 25 Cents (Extended Mix),5A,,2025-12-12 14:53:56
+349,Alhambra,Tunnelvisions,50AN,House,MP3,17127905,426,2017,120.0,2021-10-10,0,Tunnelvisions - Alhambra,2A,,2025-12-12 14:53:56
+350,Vibrancy (Original Mix),UMEK,Vibrancy EP,Techno,MP3,16822787,410,0,128.0,2021-10-10,2,UMEK - Vibrancy (Original Mix),4A,,2025-12-12 14:53:56
+351,Deter,Unknown Artist,,"Deep Tech, Minimal",MP3,15342286,380,2020,129.82,2021-10-10,0,Unknown Artist - Deter,1A,,2025-12-12 14:53:56
+352,Inside (Original Mix),"Unknown7, Armando (PT)",,Tech House,MP3,15067568,368,0,127.0,2021-10-10,2,"Unknown7, Armando PT - Inside (Original Mix)",8A,,2025-12-12 14:53:56
+353,Bring the House Down,Victor Ruiz,Bring,Tech House,MP3,19370794,483,0,127.01,2021-10-10,1,Victor Ruiz - Bring the House Down,11A,,2025-12-12 14:53:56
+354,Por Ejemplo Feat Dani Rovira (Original Mix),Wade,Feat Dani Rovira Por Ejemplo,Tech House,AIFF,57985252,328,2019,124.0,2021-10-10,2,Wade Ft. Dani Rovira - Por Ejemplo (Original Mix),8A,Be One Records,2025-12-12 14:53:56
+355,Kidney Punch (Original Mix),wAFF,Sick Pleasure EP,Tech House,MP3,15909107,393,0,128.0,2021-10-10,0,wAFF - Kidney Punch (Original Mix),1A,,2025-12-12 14:53:56
+356,Divided Souls (Ft. Diddy) (Extended),Wax Motif,,Tech House,MP3,16019476,399,2019,125.0,2021-10-10,0,Wax Motif Ft. Diddy - Divided Souls (Extended),9A,,2025-12-12 14:53:56
+357,Clap Your Hands (Solomun Remix),"Whilk & Misky, Solomun",Clap Your Hands (The Remixes),Melodic House,MP3,23145843,577,0,121.0,2021-10-10,1,Whilk & Misky - Clap Your Hands (Solomun Remix),9B,,2025-12-12 14:53:56
+358,U Take Me Higher (Original Mix),Will Clarke,,Melodic House,MP3,13323880,331,2020,128.0,2021-10-10,0,Will Clarke - U Take Me Higher (Original Mix),5A,,2025-12-12 14:53:56
+359,Journey,Zimmz,,Techno,MP3,19409875,484,0,125.0,2021-10-10,0,Zimmz - Journey,7A,,2025-12-12 14:53:56
+360,Open Your Mind,Zimmz,Open Your Mind,Techno,MP3,17515523,436,0,127.0,2021-10-10,1,Zimmz - Open Your Mind,9A,,2025-12-12 14:53:56
+361,Outsider,Zimmz,Outsider,Techno,MP3,19459449,485,0,125.0,2021-10-10,0,Zimmz - Outsider,8A,,2025-12-12 14:53:56
+362,Pragmatic,Zimmz,,Techno,MP3,17740317,443,0,127.0,2021-10-10,1,Zimmz - Pragmatic,9A,,2025-12-12 14:53:56
+363,Sinematic,Zimmz,Sinematic,Techno,MP3,16808967,419,0,127.0,2021-10-10,0,Zimmz - Sinematic,6A,,2025-12-12 14:53:56
+364,Your Mind (Original Mix),"Adam Beyer, Bart Skils",Your Mind,Techno,MP3,20372296,503,0,126.0,2021-10-10,4,Adam Beyer Ft. Bart Skils - Your Mind (Original Mix),10A,Drumcode,2025-12-12 14:53:56
+365,Rome Future (Original Mix),"Adam Beyer, Layton Giordani",,Techno,MP3,17079541,426,0,127.0,2021-10-10,2,"Adam Beyer, Layton Giordani - Rome Future (Original Mix)",1A,,2025-12-12 14:53:56
+366,Space Date (Original Mix),"Adam Beyer, Layton Giordani, Green Velvet",,Techno,MP3,15908236,396,0,127.0,2021-10-10,1,"Adam Beyer, Layton Giordani, Green Velvet - Space Date (Original Mix)",2B,Drumcode,2025-12-12 14:53:56
+367,C3PO (Original Mix),Adana Twins,,Techno,MP3,18382574,458,0,124.0,2021-10-10,0,Adana Twins - C3PO (Original Mix),8B,,2025-12-12 14:53:56
+368,Kickback (Original Mix),Adrian Hour,Kickback,Techno,MP3,16845323,419,2017,124.0,2021-10-10,1,Adrian Hour - Kickback (Original Mix),5A,,2025-12-12 14:53:56
+369,Craft (Original Mix),Adriatique,X,Melodic Techno,MP3,16961191,422,0,123.0,2021-10-10,0,Adriatique - Craft (Original Mix),7A,,2025-12-12 14:53:56
+370,Mystery (Tale Of Us & Mathame Remix),Adriatique,Nude Remixes,Melodic Techno,MP3,17261448,424,0,124.0,2021-10-10,1,Adriatique - Mystery (Tale Of Us & Mathame Remix),3A,,2025-12-12 14:53:56
+381,Consciousness (Extended),"Anyma, Chris Avantgarde",,Melodic Techno,MP3,13952471,348,0,126.0,2022-11-28,0,"Anyma, Chris Avantgarde - Consciousness (Extended Mix)",6A,,2025-12-12 14:53:56
+382,Generation (Original Mix),ARTBAT,,Melodic Techno,MP3,17747199,442,0,128.0,2022-11-28,1,ARTBAT - Generation (Original Mix),5A,,2025-12-12 14:53:56
+383,SWEAT (Extended Mix),"Billy Kenny, Huxley",,Tech House,MP3,14813433,369,0,125.0,2022-11-28,2,"Billy Kenny, Huxley - SWEAT (Extended Mix)",5A,,2025-12-12 14:53:56
+384,Violins,BRYZ,,"Deep Tech, Minimal",MP3,15907352,453,0,123.0,2022-11-28,3,BRYZ - Violins,6A,,2025-12-12 14:53:56
+385,Mi Gente (Marco Strous Remix),"Caal, Baum",,Tech House,MP3,17124747,427,0,126.0,2022-11-28,1,"Caal, Baum - Mi Gente (Marco Strous Remix)",9A,,2025-12-12 14:53:56
+386,Instinct (Original Mix),Christian Craken,,"Deep Tech, Minimal",MP3,13884037,339,0,125.0,2022-11-28,0,Christian Craken - Instinct (Original Mix),4A,,2025-12-12 14:53:56
+387,Libertad Mapuche ( Original Mix ),Cris Ocaña,,Tech House,WAV,70447282,399,0,125.0,2022-11-28,0,Cris Ocaña - Libertad Mapuche ( Original Mix ),4A,,2025-12-12 14:53:56
+388,La Mama De La Mama (El Alfa) (Gordo x Red tape Edit),Gordo x Red tape,,Tech House,WAV,68584364,388,0,125.0,2022-11-28,4,El Alfa - La Mama (Gordo x Red tape Edit),12A,,2025-12-12 14:53:56
+389,Deep End (Extended Mix),John Summit,Deep End,Tech House,MP3,15332567,382,0,126.0,2022-11-28,2,John Summit - Deep End (Extended Mix),2A,,2025-12-12 14:53:56
+390,What A Life (Ft. Stevie Appleton) (Extended Mix),John Summit,,House,MP3,15792174,353,0,126.0,2022-11-28,1,John Summit Ft. Stevie Appleton - What A Life (Extended Mix),7A,,2025-12-12 14:53:56
+391,Human (Extended Mix),"John Summit, Echoes",,House,MP3,14781704,354,0,126.0,2022-11-28,0,"John Summit, Echoes - Human (Extended Mix)",4A,,2025-12-12 14:53:56
+392,La Farsa (Original Mix),LondonGround,,"Deep Tech, Minimal",MP3,9311460,218,0,124.0,2022-11-28,2,Londonground - La Farsa (Original Mix),11B,,2025-12-12 14:53:56
+393,La Rave (Original Mix),Loüs,,Tech House,MP3,12862107,315,0,124.0,2022-11-28,1,Loüs - La Rave (Original Mix),5A,,2025-12-12 14:53:56
+394,Ritmo (Extended Mix),Raffa FL,,Tech House,MP3,13636099,340,0,124.0,2022-11-28,0,Raffa FL - Ritmo (Extended Mix),6A,,2025-12-12 14:53:56
+396,Paradise (Extended Mix),"Rossi, Insight",,"Deep Tech, Minimal",MP3,16400322,402,0,127.0,2022-11-28,7,"Rossi, Insight - Paradise (Extended Mix)",9A,,2025-12-12 14:53:56
+397,Kilombito Mal (Ft. Antonia Montero) (Original Mix),Toman,,Jackin House,MP3,20110951,499,0,129.0,2022-11-28,2,Toman - Kilombito Mal Ft. Antonia Montero (Original Mix),1A,,2025-12-12 14:53:56
+398,Automation (Original Mix),Toto Chiavetta,Rational Utopia,Melodic Techno,MP3,16755811,417,0,122.0,2022-11-28,2,Toto Chiavetta - Automation (Original Mix),8A,,2025-12-12 14:53:56
+399,Relax My Eyes (Original Mix),"ANOTR, Abel Balder",,House,MP3,16615891,396,0,132.0,2022-11-28,1,ANOTR Ft. Abel Balder - Relax My Eyes (Original Mix),3A,,2025-12-12 14:53:56
+400,Running,Anyma Ft. Meg Myers,,Melodic Techno,FLAC,47978377,385,0,125.0,2022-11-28,0,Anyma - Running (feat. Meg Myers),10A,,2025-12-12 14:53:56
+401,Your Mind (Original Mix),"ANOTR, Abel Balder",The Reset,House,MP3,13685116,340,0,130.0,2022-11-30,0,"ANOTR, Abel Balder - Your Mind (Original Mix)",6B,,2025-12-12 14:53:56
+402,Time To Smoke (Original Mix),"ANOTR, Sebastian Kamae",The Reset,House,MP3,21116454,526,0,130.0,2022-11-30,2,"ANOTR, Sebastian Kamae - Time To Smoke (Original Mix)",11A,,2025-12-12 14:53:56
+403,You & Me (GHEIST Rework),"Disclosure, GHEIST",,Melodic House,MP3,15882641,377,0,124.0,2022-11-30,0,Disclosure - You & Me (Flume Remix) (GHEIST Rework),3A,,2025-12-12 14:53:56
+404,In Chicago (Extended Mix),John Summit,,Tech House,FLAC,40905414,339,0,126.0,2022-11-30,7,John Summit - In Chicago (Extended Mix),7A,,2025-12-12 14:53:56
+405,Vertigo (Original Mix),"ANOTR, Abel Balder",The Reset,House,MP3,10319498,256,0,131.0,2022-11-30,2,"ANOTR, Abel Balder - Vertigo (Original Mix)",8A,,2025-12-12 14:53:56
+407,Glue,Bicep,,House,MP3,10767758,269,0,130.0,2023-07-04,0,Bicep - Glue,9A,,2025-12-12 14:53:56
+408,Keep The Secret,Blackchild (ITA),,"Deep Tech, Minimal",MP3,20642044,515,0,131.0,2023-07-04,2,Blackchild (ITA) - Keep The Secret,10A,,2025-12-12 14:53:56
+409,Sientate,Bobby Shan,,"Deep Tech, Minimal",WAV,80112788,302,0,130.0,2023-07-04,1,Bobby Shann - Sientate,2A,,2025-12-12 14:53:56
+410,Back To House,Carloh,,Tech House,MP3,17967105,449,0,124.0,2023-07-04,3,Carloh - Back To House,6A,,2025-12-12 14:53:56
+411,Evening Drive (Original Mix),Chris Stussy,,"Deep Tech, Minimal",MP3,16884591,422,0,128.0,2023-07-04,2,Chris Stussy - Evening Drive (Original Mix),7B,,2025-12-12 14:53:56
+412,Faux Francais,Classmatic,,Tech House,MP3,15605637,390,0,128.0,2023-07-04,4,Classmatic - Faux Français,1A,,2025-12-12 14:53:56
+413,Fancy Dance,Daniel Moll,,Tech House,WAV,61302572,347,0,125.0,2023-07-04,0,Daniel Moll - Fancy Dance,9A,,2025-12-12 14:53:56
+414,Como,Disfeq,,Techno,MP3,13531513,338,0,126.0,2023-07-04,0,Disfreq - Como,7A,,2025-12-12 14:53:56
+415,"El Beso (Ft. Crusy, Mathieu Ruz)(Extended Mix)",Dombresky,,Tech House,MP3,14424901,360,0,126.0,2023-07-04,2,Dombresky & Crusy Ft. Mathieu Ruz - El Beso (Extended Mix),5A,,2025-12-12 14:53:56
+416,Night After Night (Ft. Be No Rain)(Camelphat Remix),"Fideles, Camelphat",,Melodic Techno,MP3,16745620,418,0,124.0,2023-07-04,1,Fideles Ft. Be No Rain - Night After Night (Camelphat Remix),8A,,2025-12-12 14:53:56
+417,Aratak,Kevin De Vries,,Melodic Techno,MP3,17324493,433,0,125.0,2023-07-04,1,Kevin De Vries - Aratak,9A,,2025-12-12 14:53:56
+418,Dance With Me (Original Mix),Kevin De Vries,,Melodic Techno,MP3,15668330,391,0,124.0,2023-07-04,1,Kevin de Vries - Dance With Me (Original Mix),11A,,2025-12-12 14:53:56
+420,Banho de Folhas (Maz (BR) Remix),"Luedji Luna, Maz (BR)",,Afro House,MP3,16004438,382,2022,126.0,2023-07-04,2,Luedji Luna - Banho de Folhas (Maz BR Remix),11A,,2025-12-12 14:53:56
+421,Still Doesn't Care,Luuk Van Djik,,"Deep Tech, Minimal",MP3,13806322,345,0,128.0,2023-07-04,1,Luuk van Dijk - Still Doesn't Care,4A,,2025-12-12 14:53:56
+423,Nomada,Pablo Fierro,,Afro House,MP3,18989016,474,0,123.0,2023-07-04,3,Pablo Fierro - Nomada,5A,,2025-12-12 14:53:56
+424,Room Service (24 Hour Extended Mix),PAWSA,,House,MP3,19691204,473,0,130.0,2023-07-04,2,PAWSA - Room Service (24 Hour Extended Mix),8A,,2025-12-12 14:53:56
+425,Say Less,PAWSA,,"Deep Tech, Minimal",MP3,16920118,422,0,132.0,2023-07-04,1,PAWSA - SAY LESS,8A,,2025-12-12 14:53:56
+426,Impossible (Ft. Alison Goldfrapp) (&ME Remix),"Röyksopp, &ME",,Afro House,MP3,22359666,555,0,121.0,2023-07-04,2,Royksopp - Impossible Ft. Alison Goldfrapp (&ME Remix),4A,,2025-12-12 14:53:56
+427,San Juan (Band&dos Remix),"Sebastian Rivero, Calussa, Band&dos",,Latin House,MP3,15565930,389,0,124.0,2023-07-04,2,"Sebastian Rivero, Calussa - San Juan (Band&dos Remix)",6A,,2025-12-12 14:53:56
+428,Jack Endlessly,Sidney Charles,,Tech House,MP3,16674525,416,0,126.0,2023-07-04,1,Sidney Charles - Jack Endlessly,6B,,2025-12-12 14:53:56
+429,Never Sleep Again,Solomun,,Melodic House,MP3,7946534,198,0,120.0,2023-07-04,0,Solomun - Never Sleep Again,5A,,2025-12-12 14:53:56
+430,Twisted Voice (Original Mix),Space Motion,,Melodic Techno,MP3,16101962,402,0,123.0,2023-07-04,0,Space Motion - Twisted Voice (Original Mix),8A,,2025-12-12 14:53:56
+431,Nova Two (Original Mix),Tale Of Us,,Melodic Techno,MP3,13060264,326,0,125.0,2023-07-04,1,Tale Of Us - Nova Two (Original Mix),9A,,2025-12-12 14:53:56
+432,Sacrifice (John Summit Remix) [Extended Mix],"The Weeknd, John Summit",,House,WAV,46400300,263,0,125.0,2023-07-04,4,The Weeknd - Sacrifice (John Summit Remix) [Extended Mix],10A,,2025-12-12 14:53:56
+433,Blow Ya Faces Off (Original Mix),Wade,,Tech House,MP3,14857448,371,0,125.0,2023-07-04,3,Wade - Blow Ya Faces Off (Original Mix),4A,,2025-12-12 14:53:56
+434,Manhattan (Ft. Antonio Contino),"Milk Bar, Santarini",,Tech House,MP3,12393620,309,0,125.0,2023-07-05,1,"Milk Bar, Santarini - Manhattan (Ft. Antonio Contino)",11A,,2025-12-12 14:53:56
+488,Back Street Bass,OMAKS,,Hard Techno,MP3,16912803,422,0,160.0,2023-09-04,1,OMAKS - Back Street Bass,9A,,2025-12-12 14:53:56
+489,World On Fire (Original Mix),WNDRLST,,Hard Techno,MP3,14174126,354,0,145.0,2023-09-04,1,WNDRLST - World On Fire (Original Mix),11A,,2025-12-12 14:53:56
+490,Close Your Eyes (Original Mix),Alignment,,Hard Techno,MP3,12047758,301,0,150.0,2023-09-04,2,Alignment - Close Your Eyes (Original Mix),1A,,2025-12-12 14:53:56
+491,Rampage (Original Mix),Bollmann,,Hard Techno,MP3,17242992,431,0,150.0,2023-09-04,1,Bollmann - Rampage (Original Mix),4A,,2025-12-12 14:53:56
+492,Hooligans,Charlie Sparks (UK),,Hard Techno,MP3,14947350,373,0,147.0,2023-09-04,2,Charlie Sparks (UK) - Hooligans,4A,,2025-12-12 14:53:56
+493,United We Scream,"Lacchesi, Leo Pol",,Hard Techno,MP3,14645375,366,0,145.0,2023-09-04,1,"Lacchesi, Leo Pol - United We Scream",3A,,2025-12-12 14:53:56
+511,Don't Push It Too Far,Sweely,,"Deep Tech, Minimal",MP3,13604656,340,0,130.0,2023-12-12,2,Sweely - Don't Push It Too Far,7A,,2025-12-12 14:53:56
+512,Osama (Claptone Remix Extended),"Zakes Bantwini & Kasango, Claptone",,House,MP3,11305881,282,0,125.0,2023-12-12,0,Zakes Bantwini & Kasango - Osama (Claptone Remix Extended),4A,,2025-12-12 14:53:56
+513,Trilogy (Ft. Sabota),&ME,,Melodic House,MP3,18410142,460,0,122.0,2023-12-12,2,&ME Ft. Sabota - Trilogy,8A,,2025-12-12 14:53:56
+514,Tzu-Mani,"Aldo Cadiz, Andre Butano",,Tech House,MP3,16593064,414,0,125.0,2023-12-12,3,"Aldo Cadiz, Andre Butano - Tzu-Mani",4B,,2025-12-12 14:53:56
+515,Way Of Life,Chris Stussy,,"Deep Tech, Minimal",MP3,13939024,348,0,124.0,2023-12-12,0,Chris Stussy - Way Of Life,8A,,2025-12-12 14:53:56
+516,"You & Me, Together (Original Mix)",Chris Stussy,,"Deep Tech, Minimal",MP3,14594175,364,0,127.0,2023-12-12,4,"Chris Stussy - You & Me, Together (Original Mix)",1A,,2025-12-12 14:53:56
+517,Fever (Original Mix),Dimmish,,"Deep Tech, Minimal",MP3,15619220,390,0,128.0,2023-12-12,3,Dimmish - Fever,2A,,2025-12-12 14:53:56
+518,Messan (Original Mix),Jansons,,House,MP3,14434305,360,0,128.0,2023-12-12,4,Jansons - Messan (Original Mix),8A,,2025-12-12 14:53:56
+519,Fruit & Nut,Luke Hazell,,"Deep Tech, Minimal",MP3,20549048,513,0,129.0,2023-12-12,1,Luke Hazell - Fruit & Nut,6A,,2025-12-12 14:53:56
+520,Downstream (Original Mix),"Makez, Life On Planets",,Funky House,MP3,16929522,423,0,130.0,2023-12-12,3,"Makez, Life On Planets - Downstream (Original Mix)",6B,,2025-12-12 14:53:56
+522,Godfather's Dance (Original Mix),Andrew Meller,,Tech House,MP3,16060167,401,0,125.0,2024-01-10,3,Andrew Meller - Godfather's Dance (Original Mix),8A,,2025-12-12 14:53:56
+523,Piscore (Original Mix),Cuartero,,Tech House,MP3,14765538,369,0,125.0,2024-01-10,0,Cuartero - Piscore (Original Mix),6A,,2025-12-12 14:53:56
+524,That Jazz Feeling (Extended Mix),T.Markakis,,Deep House,MP3,13979776,349,0,122.99,2024-01-10,2,T.Markakis - That Jazz Feeling (Extended Mix),5A,,2025-12-12 14:53:56
+525,Lua (Pippi Ciez Retake),Djamou Sangare & Idd Aziz,Lua,Afro House,AIFF,82412050,466,2021,117.0,2024-01-18,0,Djamou Sangare & Idd Aziz - Lua (Pippi Ciez Retake) [Inward Records],7A,Inward Records,2025-12-12 14:53:56
+526,Power Back (Original Mix),Eddy M,2018 Ibiza Sampler,Tech House,MP3,14092793,350,2018,126.0,2024-01-18,0,Eddy M - Power Back (Original Mix),4A,Solid Grooves Records,2025-12-12 14:53:56
+527,Ode Ireti (Nitefreak Remix) ,"EL-Jay, &friends, Oluwadamvic",,Afro House,AIFF,68422652,387,2022,120.0,2024-01-18,1,"EL-Jay, &friends, Oluwadamvic - Ode Ireti (Nitefreak Remix) [Hidden Hands]",1A,Hidden Hands,2025-12-12 14:53:56
+528,Ode Ireti (Original Mix) ,"EL-Jay, &friends, Oluwadamvic",,Afro House,AIFF,60024802,339,2022,120.0,2024-01-18,0,"EL-Jay, &friends, Oluwadamvic - Ode Ireti (Original Mix) [Hidden Hands]",1A,Hidden Hands,2025-12-12 14:53:56
+529,The Sun Can't Compare (My Life) [feat. IDA fLO] (Extended Mix),Francesco Poggi,The Sun Can't Compare (My Life) [feat. IDA fLO],Tech House,MP3,18103360,449,2021,126.0,2024-01-18,1,Francesco Poggi - The Sun Can't Compare (My Life) (Extended Mix) [Ft. IDA fLO] [Black Book Records],9A,Black Book Records,2025-12-12 14:53:56
+530,Astron (Davi Remix) ,Hernan Cattaneo & Soundexile,Astron,Progressive House,AIFF,80545858,455,2018,122.0,2024-01-18,0,"Hernan Cattaneo, Soundexile - Astron (Davi Remix) [Sudbeat Music]",5A,Sudbeat Music,2025-12-12 14:53:56
+531,Affogato (Original Mix) ,Jordan Brando & Luke Alessi,"N64, Affogato",Tech House,AIFF,58530424,331,2023,128.0,2024-01-18,3,Jordan Brando & Luke Alessi - Affogato (Original Mix) [White Label],10B,White Label,2025-12-12 14:53:56
+532,Force (Original Mix),Laolu,Force EP,Afro House,AIFF,80275442,454,2020,120.0,2024-01-18,0,Laolu - Force (Original Mix) [Compost],12A,Compost,2025-12-12 14:53:56
+533,Vio Ft. Maria Marquez,Ninetoes,Quarantine Love EP,Afro House,MP3,13003557,324,2020,122.0,2024-01-18,0,Ninetoes - Vio feat. Maria Marquez [Head To Toe],11A,Head To Toe,2025-12-12 14:53:56
+534,Deep Musique (Rampa Remix),"Osunlade, Pastaboys",Rebirth 10 Remixed - Part One,Afro House,AIFF,85014882,480,2017,124.0,2024-01-18,0,"Osunlade, Pastaboys - Deep Musique (Rampa Remix) [Rebirth]",6A,Rebirth,2025-12-12 14:53:56
+535,Sekater (Original Mix),Rafael Cerato,Sekater,Melodic Techno,AIFF,85609568,484,2022,120.0,2024-01-18,0,Rafael Cerato - Sekater (Original Mix) [Systematic Recordings],3A,Systematic Recordings,2025-12-12 14:53:56
+536,Bimma,Rampa,Hall Of Violence EP,Afro House,AIFF,69242828,373,2017,124.0,2024-01-18,1,Rampa - Bimma [Innervisions],9A,Innervisions,2025-12-12 14:53:56
+537,Newborn Soul,Rampa,Newborn Soul EP,Afro House,MP3,19473702,452,2015,120.0,2024-01-18,0,Rampa - Newborn Soul [Keinemusik],3A,Keinemusik,2025-12-12 14:53:56
+538,Terrace ,Rampa,"Terrace, Garden",Afro House,AIFF,79709762,450,2019,124.0,2024-01-18,1,Rampa - Terrace  [Keinemusik],5A,Keinemusik,2025-12-12 14:53:56
+539,The Church,Rampa,Monday Dreamin',Melodic House,AIFF,77647182,439,2021,123.0,2024-01-18,2,Rampa - The Church [CircoLoco Records],4A,CircoLoco Records,2025-12-12 14:53:56
+540,Les Gout (Original Mix),"Rampa, chuala",Les Gout,Afro House,AIFF,71328980,404,2022,120.0,2024-01-18,1,"Rampa, chuala - Les Gout (Original Mix) [Keinemusik]",3A,Keinemusik,2025-12-12 14:53:56
+541,Champion ,"Rampa, Sparrow & Barbossa",Champion,Afro House,AIFF,67369446,381,2023,121.0,2024-01-18,2,"Rampa, Sparrow & Barbossa - Champion  [VOD]",5A,VOD,2025-12-12 14:53:56
+542,I Wanna Dance ,Rossi,Get On The Floor EP,"Deep Tech, Minimal",AIFF,65552232,371,2023,130.0,2024-01-18,1,Rossi. - I Wanna Dance  [Hot Creations],1A,Hot Creations,2025-12-12 14:53:56
+543,Knock Knock,Rossi,I've Been Waiting.,"Deep Tech, Minimal",AIFF,61236796,346,0,129.0,2024-01-18,1,Rossi. - Knock Knock [Homegrown.],8A,Homegrown.,2025-12-12 14:53:56
+544,Eyes (Rufus Du Sol VIP Edit),Rufus Du Sol,,Melodic Techno,MP3,20072428,499,2019,122.0,2024-01-18,0,RÜFÜS DU SOL - Eyes (RÜFÜS DU SOL VIP Edit) [Rose Avenue_Reprise],1A,Rose Avenue/Reprise,2025-12-12 14:53:56
+545,Nothing On Me ,"Tabia, Maz (BR), MAXI MERAKI, APACHE (FR)",,Afro House,AIFF,78641622,445,2023,122.0,2024-01-18,1,"Tabia, Maz (BR), MAXI MERAKI, APACHE (FR) - Nothing On Me  [Abracadabra Music]",11A,Abracadabra Music,2025-12-12 14:53:56
+546,Woods,&ME,Trilogy,Afro House,MP3,19232069,477,2015,122.0,2024-01-18,1,&ME - Woods [Keinemusik],9A,Keinemusik,2025-12-12 14:53:56
+547,Ganesha Song,Adam Port,Ganesha Song EP,Afro House,AIFF,85145854,480,0,120.0,2024-01-18,0,Adam Port - Ganesha Song [Keinemusik],8A,Keinemusik,2025-12-12 14:53:56
+548,Working For It (Ft. Jennifer Touch),Adam Port,Sonnenfinsternis Ep,Afro House,MP3,19236864,457,2016,122.0,2024-01-18,0,Adam Port - Working For It feat. Jennifer Touch [Keinemusik],8B,Keinemusik,2025-12-12 14:53:56
+549,Forms of Love,Adam Port & Alan Dixon,Forms of Love,Melodic House,AIFF,69948892,363,0,122.0,2024-01-18,0,"Adam Port, Alan Dixon - Forms of Love [Keinemusik]",6B,Keinemusik,2025-12-12 14:53:56
+550,Retrida ,Angelov,Cabora EP,Melodic Techno,AIFF,88360788,499,2019,123.0,2024-01-18,0,Angelov - Retrida  [Diynamic],4A,Diynamic,2025-12-12 14:53:56
+551,Your Voice (Adam Port Remix) ,AWEN & Caiiro,Your Voice,Afro House,AIFF,76825058,434,2023,122.0,2024-01-18,1,AWEN & Caiiro - Your Voice (Adam Port Remix) [Madorasindahouse Records],11A,Madorasindahouse Records,2025-12-12 14:53:56
+552,Mind Control,Ben Sterling,Danger / Mind Control,"Deep Tech, Minimal",MP3,15166026,375,2019,128.0,2024-01-18,2,Ben Sterling - Mind Control [Edible],6A,Edible,2025-12-12 14:53:56
+553,Beso (Fruta Fresca) (Extended Mix),"Carlos Vives, Wakyin",,Afro House,MP3,15782664,391,2023,124.0,2024-01-18,3,"Carlos Vives, Wakyin - Beso (Fruta Fresca Extended Mix) [Astralwerks]",3A,Astralwerks,2025-12-12 14:53:56
+554,One By One (DJ Angelos Remix) ,"Diplo, Andhim, Elderbrook",One By One (The Remixes),Melodic House,AIFF,40272998,228,2021,120.0,2024-01-18,0,"Diplo, Andhim, Elderbrook - One By One (DJ Angelos Remix) [Higher Ground (Mad Decent)]",11A,Higher Ground (Mad Decent),2025-12-12 14:53:56
+555,Point Of No Return (Extended Mix),"Adam Port, Monolink",Point Of No Return,Melodic Techno,AIFF,69742078,394,2023,122.0,2024-01-19,0,"Adam Port, Monolink - Point Of No Return (Extended Mix) [Afterlife Records]",8A,Afterlife Records,2025-12-12 14:53:56
+556,No Regrets (Original Mix) ,Adamant (IT),Voyager 01,Melodic Techno,AIFF,70591926,399,2020,125.0,2024-01-19,0,Adamant (IT) - No Regrets (Original Mix) [ATLANT],8A,ATLANT,2025-12-12 14:53:56
+557,Rollox,Adriatique,Rollox EP,Melodic Techno,MP3,15085235,377,2014,124.0,2024-01-19,0,Adriatique - Rollox,8B,,2025-12-12 14:53:56
+558,Tribe,Alan Fitzpatrick,Tribe,Techno,MP3,13844608,346,2015,128.0,2024-01-19,0,Alan Fitzpatrick - Tribe,1A,,2025-12-12 14:53:56
+559,Planeta ,ARTBAT,Planeta EP,Melodic Techno,AIFF,75454544,427,0,122.0,2024-01-19,0,Artbat - Planeta  [Diynamic],12A,Diynamic,2025-12-12 14:53:56
+560,Real Lies feat. Discern (Original Mix),Bedouin,Ride into the Unknown EP,Melodic Techno,MP3,22039189,546,2016,120.0,2024-01-19,0,Bedouin - Real Lies feat. Discern (Original Mix) [Cityfox],8A,Cityfox,2025-12-12 14:53:56
+561,Foolish,Black Circle,Deep House 2022,Melodic House,AIFF,88493566,501,2022,123.0,2024-01-19,1,Black Circle - Foolish [RADIANT.],5A,RADIANT.,2025-12-12 14:53:56
+562,It's All Over,Colyn,Unity,Melodic Techno,AIFF,81512846,461,2020,125.0,2024-01-19,0,Colyn - It's All Over [Afterlife Records],3A,Afterlife Records,2025-12-12 14:53:56
+563,The Future Is the Past,Colyn,Stil vor Talent Berlin: Koepi,Melodic Techno,AIFF,78575770,444,2020,126.0,2024-01-19,1,Colyn - The Future Is the Past [Stil Vor Talent],3A,Stil Vor Talent,2025-12-12 14:53:56
+564,Message,Dosem,Streetout EP,Melodic House,MP3,15312137,376,2014,123.0,2024-01-19,0,Dosem - Message [Suara],2A,Suara,2025-12-12 14:53:56
+565,A Further Existence (Digital Only),Enrico Sangiuliano,Biomorph,Techno,MP3,19453039,483,2018,129.0,2024-01-19,0,Enrico Sangiuliano - A Further Existence (Digital Only) [Drumcode],11A,Drumcode,2025-12-12 14:53:56
+566,Hidden T (Original Mix),Enrico Sangiuliano,Biomorph,Techno,MP3,18843529,468,2018,126.0,2024-01-19,0,Enrico Sangiuliano - Hidden T (Original Mix) [Drumcode],6A,Drumcode,2025-12-12 14:53:56
+567,Next Life (Original Mix),Franky Wah,"Next Life , Nightfall",Melodic Techno,MP3,14055289,348,2019,127.0,2024-01-19,0,Franky Wah - Next Life (Original Mix) [Shen],6A,Shen,2025-12-12 14:53:56
+568,Hollow Lane,Future Self,Tour De Traum XX,Melodic Techno,MP3,20623008,510,2020,123.0,2024-01-19,0,Future Self - Hollow Lane [Traum],7A,Traum,2025-12-12 14:53:56
+569,Bob Fossil (Original Mix) ,"Gab Rhome, Mark Alow",Bob Fossil,Melodic House,AIFF,80452364,455,2019,115.0,2024-01-19,0,"Gab Rhome, Mark Alow - Bob Fossil (Original Mix) [Bar 25 Music]",7A,Bar 25 Music,2025-12-12 14:53:56
+570,Copenhagen ,Giorgia Angiuli,In a Pink Bubble (23 Nov 2018),Melodic Techno,AIFF,61076614,345,2018,122.0,2024-01-19,0,Giorgia Angiuli - Copenhagen  [Stil Vor Talent],6A,Stil Vor Talent,2025-12-12 14:53:56
+571,All Voices (Jose Tabarez Remix) ,Kazko,All Voices (06 Aug 2021),Melodic House,AIFF,85304970,481,2021,118.0,2024-01-19,0,Kazko - All Voices (Jose Tabarez Remix) [Bevel Rec],9A,Bevel Rec,2025-12-12 14:53:56
+572,Sunflakes (Original Mix),Khen,Pollen Spreader - EP,Progressive House,MP3,24524347,611,2015,122.0,2024-01-19,0,Khen - Sunflakes (Original Mix) [microCastle],1A,microCastle,2025-12-12 14:53:56
+573,Magia (feat. Franchino),Mathame,Unity,Melodic Techno,AIFF,65812900,372,2020,126.0,2024-01-19,0,Mathame - Magia (feat. Franchino) [Afterlife Records],4A,Afterlife Records,2025-12-12 14:53:56
+574,Around (Solomun Vox),"Noir, Haze, Solomun",Defected presents Most Rated Miami Classics,Deep House,MP3,16914652,418,2016,115.0,2024-01-19,0,"Noir, Haze, Solomun - Around (Solomun Vox) [Defected]",3B,Defected,2025-12-12 14:53:56
+575,Planet9 (Original Mix) ,Pan-Pot,Keid,Techno,AIFF,82309312,466,2020,130.0,2024-01-19,0,Pan-Pot - Planet9 (Original Mix) [Second State],2A,Second State,2025-12-12 14:53:56
+576,Dungeon Freak Feat. Daddy Dino,Patrick Topping,Dungeon Freak EP,Techno,MP3,15738630,390,2019,128.0,2024-01-19,0,Patrick Topping - Dungeon Freak Feat. Daddy Dino [Trick],11A,Trick,2025-12-12 14:53:56
+577,Frisk (Original Mix),"Patrick Topping, Kevin Saunderson",Frisk,Techno,MP3,7683315,191,2020,128.0,2024-01-19,0,"Patrick Topping, Kevin Saunderson - Frisk (Original Mix) [KMS Records]",1A,KMS Records,2025-12-12 14:53:56
+578,Moth To A Flame (Adriatique Remix),"Swedish House Mafia, Adriatique, The Weeknd",Moth To A Flame,Afro House,MP3,15657111,390,2022,120.0,2024-01-19,1,"Swedish House Mafia, Adriatique, The Weeknd - Moth To A Flame (Adriatique Remix) [Republic Records]",5A,Republic Records,2025-12-12 14:53:56
+580,North Star (Original Mix),Tale Of Us,North Star / Silent Space,Melodic Techno,MP3,18654737,465,2015,124.0,2024-01-19,0,Tale Of Us - North Star (Original Mix),3A,,2025-12-12 14:53:56
+581,Astral,Tale Of Us & Mind Against,Astral,Melodic Techno,MP3,16213787,402,2015,124.0,2024-01-19,0,Tale Of Us & Mind Against - Astral [Life & Death],10A,Life & Death,2025-12-12 14:53:56
+582,Marea (We've Lost Dancing) (Original Mix),"The Blessed Madonna, Fred again..",Marea (We've Lost Dancing),Melodic House,MP3,11464882,285,2021,123.0,2024-01-19,0,"The Blessed Madonna, Fred again.. - Marea (We've Lost Dancing Original Mix) [Atlantic Records UK]",4A,Atlantic Records UK,2025-12-12 14:53:56
+583,Not Alone,Time,Not Alone,Melodic House,MP3,16234298,404,2015,120.0,2024-01-19,0,Time - Not Alone [Voyeur],8A,Voyeur,2025-12-12 14:53:56
+584,Hypnotised (Extended Mix),Tinlicker & Dosem,Hypnotised / I Can Feel,Progressive House,AIFF,68102246,385,2021,125.0,2024-01-19,0,Tinlicker & Dosem - Hypnotised (Extended Mix) [Anjunadeep],2A,Anjunadeep,2025-12-12 14:53:56
+585,Asi Me Gustas,Carloh,Asi Me Gustas,Tech House,MP3,17537024,437,2021,125.0,2024-01-20,1,Carloh - Asi Me Gustas [BANDIDOS],12B,BANDIDOS,2025-12-12 14:53:56
+586,Latino's House Gang,Carloh,Latinos House Gang EP,Tech House,MP3,17601317,438,2020,125.0,2024-01-20,1,Carloh - Latino's House Gang [South Of Saturn],2A,South Of Saturn,2025-12-12 14:53:56
+587,Ven A Bailar (Original Mix) ,Carloh,Ven A Bailar (22 May 2020),Tech House,AIFF,77483044,438,2020,127.0,2024-01-20,1,Carloh - Ven A Bailar (Original Mix) [BANDIDOS],1A,BANDIDOS,2025-12-12 14:53:56
+588,Wirakchuro (Andes House Extended Mix) ,Carloh,Latino EP,Tech House,AIFF,68232028,385,2019,126.0,2024-01-20,1,Carloh - Wirakchuro (Andes House Extended Mix) [Saved Records],4B,Saved Records,2025-12-12 14:53:56
+589,Voltage (Original Mix) ,Charles D (USA),Voltage (09 Mar 2020),Techno,AIFF,80727388,456,2020,128.0,2024-01-20,1,Charles D (USA) - Voltage (Original Mix) [Fierce Animal Recordings],2A,Fierce Animal Recordings,2025-12-12 14:53:56
+590,Toma Dale ,Classmatic,Toma Dale,Tech House,AIFF,57181613,323,2022,129.0,2024-01-20,1,Classmatic - Toma Dale  [Hot Creations],8A,Hot Creations,2025-12-12 14:53:56
+591,When House Takes a Journey,GW Harrison,Now or Never EP,House,MP3,17090373,422,2017,124.0,2024-01-20,0,GW Harrison - When House Takes a Journey [ABODE Records],6B,ABODE Records,2025-12-12 14:53:56
+592,Yourself,Hot Since 82,Yourself,Deep House,MP3,17541644,438,2016,123.0,2024-01-20,1,Hot Since 82 - Yourself [Knee Deep In Sound],8A,Knee Deep In Sound,2025-12-12 14:53:56
+593,Sober Hallucinations,Jack Walker,"Simply Deep Tech, Vol. 01","Deep Tech, Minimal",MP3,16095232,401,2022,132.0,2024-01-20,0,Jack Walker - Sober Hallucinations [LW Recordings],4A,LW Recordings,2025-12-12 14:53:56
+594,LondON (Original Mix),Jay Lumen,LondON EP,Techno,MP3,18969448,472,2015,125.0,2024-01-20,0,Jay Lumen - LondON (Original Mix) [100% Pure],8A,100% Pure,2025-12-12 14:53:56
+595,La Danza (Extended Mix),John Summit,Defected presents Most Rated Ibiza 2022,Tech House,MP3,13655445,339,2022,126.0,2024-01-20,0,John Summit - La Danza (Extended Mix) [Defected],12A,Defected,2025-12-12 14:53:56
+596,Mitad y Mitad (Andres Campo Remix),"Kaseo, Andres Campo, Najwa",Mitad y Mitad,Techno,MP3,16862201,420,2020,128.0,2024-01-20,0,"Kaseo, Andres Campo, Najwa - Mitad y Mitad (Andres Campo Remix) [Rap Solo]",3B,Rap Solo,2025-12-12 14:53:56
+597,Escape feat. Hayla (John Summit Extended Mix) ,"Kaskade, deadmau5, Kx5",Escape feat. Hayla (John Summit Mix),House,AIFF,54877704,310,2022,126.0,2024-01-20,0,"Kaskade, deadmau5, Kx5 - Escape feat. Hayla (John Summit Extended Mix) [mau5trap]",7A,mau5trap,2025-12-12 14:53:56
+598,Moving All Around (Jumpin') (John Summit Remix) ,"Kim English, Schak",Moving All Around (Jumpin') (John Summit Remix),Tech House,AIFF,58945348,333,2023,128.0,2024-01-20,0,"Kim English, Schak - Moving All Around (Jumpin' John Summit Remix) [Trick]",3A,Trick,2025-12-12 14:53:56
+599,ITALIA NO RAVE ,KOKO.IT,ITALIA 2000,House,AIFF,48740960,275,2023,130.0,2024-01-20,0,KOKO.IT - ITALIA NO RAVE  [Shall Not Fade],3A,Shall Not Fade,2025-12-12 14:53:56
+600,Panarea 80,KOKO.IT,ITALIA 2000,House,AIFF,65105562,368,0,126.0,2024-01-20,2,KOKO.IT - Panarea 80 [Shall Not Fade],1A,Shall Not Fade,2025-12-12 14:53:56
+601,Caracas Way,Manybeat,Afro Latin from Caracas,Latin House,MP3,17403904,432,2022,122.0,2024-01-20,1,Manybeat - Caracas Way [Xumba Recordings],5A,Xumba Recordings,2025-12-12 14:53:56
+602,Mamasota,Manybeat,Afro Latin from Caracas,Latin House,MP3,13998080,347,2022,123.0,2024-01-20,0,Manybeat - Mamasota [Xumba Recordings],2B,Xumba Recordings,2025-12-12 14:53:56
+603,The Story Continues (Extended Mix),Marco Lys,The Story Continues,Tech House,AIFF,81410130,460,2017,125.0,2024-01-20,1,Marco Lys - The Story Continues (Extended Mix) [Bambossa Records],10A,Bambossa Records,2025-12-12 14:53:56
+604,Who Dares To Believe In Me (Extended Mix),"Marco Lys, Plaster Hands",Who Dares To Believe In Me,House,MP3,18529775,460,2019,125.0,2024-01-20,2,"Marco Lys, Plaster Hands - Who Dares To Believe In Me (Extended Mix) [Bambossa]",8A,Bambossa,2025-12-12 14:53:56
+605,Prohphecy (Amelie Lens Remix),Mathame,Loophole,Techno,MP3,19607487,488,2016,128.0,2024-01-20,0,Mathame - Prohphecy (Amelie Lens Remix) [ARDOR Music],11A,ARDOR Music,2025-12-12 14:53:56
+606,Garden Of Groove ,Michael Bibi,Garden Of Groove EP,Tech House,AIFF,76564396,433,2019,124.0,2024-01-20,0,Michael Bibi - Garden Of Groove  [Repopulate Mars],11A,Repopulate Mars,2025-12-12 14:53:56
+607,Natural Root (Original Mix),Michael Bibi,Natural Root EP,Tech House,AIFF,70623990,399,2017,124.0,2024-01-20,0,Michael Bibi - Natural Root (Original Mix) [Lost Records],8A,Lost Records,2025-12-12 14:53:56
+608,Deutsche Welle ,Pan-Pot,Radio Berlin - EP,Techno,AIFF,73419626,415,2019,130.0,2024-01-20,0,Pan-Pot - Deutsche Welle  [Second State],1B,Second State,2025-12-12 14:53:56
+609,Hexagon (Original Mix),Ramon Tapia,Truesoul,Techno,AIFF,73594196,416,2017,125.0,2024-01-20,1,Ramon Tapia - Hexagon (Original Mix) [Truesoul],3A,Truesoul,2025-12-12 14:53:56
+610,For This ,"Rampa, Chiara Noriko",Hand in Hand EP,Afro House,AIFF,78825440,410,2019,122.0,2024-01-20,0,"Rampa, Chiara Noriko - For This  [Keinemusik]",1A,Keinemusik,2025-12-12 14:53:56
+611,Joys (Nic Fanciulli Club Re-Edit) ,Roberto Surace,Joys (Remixes),House,AIFF,69961922,396,2020,125.0,2024-01-20,0,Roberto Surace - Joys (Nic Fanciulli Club Re-Edit) [Defected],7B,Defected,2025-12-12 14:53:56
+612,House Is All I Need,Sidney Charles,Best of 2016,House,MP3,16182929,402,2016,124.0,2024-01-20,3,Sidney Charles - House Is All I Need,6A,,2025-12-12 14:53:56
+613,Sun Came Up (Extended Mix) ,"Sofi Tukker, John Summit",Sun Came Up,House,AIFF,63611206,360,2021,124.0,2024-01-20,0,"Sofi Tukker, John Summit - Sun Came Up (Extended Mix) [Ultra]",8A,Ultra,2025-12-12 14:53:56
+614,Sun Came Up (Claptone Extended Mix),"Sofi Tukker, John Summit, Claptone",Sun Came Up,House,MP3,15734398,391,2021,124.0,2024-01-20,0,"SOFI TUKKER, John Summit, Claptone - Sun Came Up (Claptone Extended Mix) [Ultra Records]",8A,Ultra Records,2025-12-12 14:53:56
+615,Atlas,Space 92,Atlas,Techno,AIFF,79308204,444,2021,132.0,2024-01-20,0,Space 92 - Atlas [Filth on Acid],11A,Filth on Acid,2025-12-12 14:53:56
+616,Another Earth (Original Mix),Tale Of Us,Another Earth,Melodic Techno,MP3,13842819,345,2013,123.0,2024-01-20,0,Tale Of Us - Another Earth (Original Mix) [Minus],1A,Minus,2025-12-12 14:53:56
+617,Alone (Extended Mix) ,Tate Flowers,Alone EP,Tech House,AIFF,67091724,379,2022,128.0,2024-01-20,0,Tate Flowers - Alone (Extended Mix) [Ole White],4A,Ole White,2025-12-12 14:53:56
+618,Amnesia (Extended Mix) ,Tate Flowers,Alone EP (09 Dec 2022),Tech House,AIFF,66387192,375,2022,128.0,2024-01-20,3,Tate Flowers - Amnesia (Extended Mix) [Ole White],8A,Ole White,2025-12-12 14:53:56
+619,Sauvignon ,Toman,Waves EP,"Deep Tech, Minimal",AIFF,71368242,404,2019,124.0,2024-01-20,3,Toman - Sauvignon  [PIV],6A,PIV,2025-12-12 14:53:56
+620,Hoya feat. Tunde International (Original Mix),"Vanco, Tunde International",Hoya,Afro House,MP3,17473612,433,2023,120.0,2024-01-20,0,"Vanco, Tunde International - Hoya (Ft. Tunde International) (Original Mix) [ALGRA II]",2A,ALGRA II,2025-12-12 14:53:56
+621,Origo (Original Mix) ,Adana Twins,Dots And Pearls 6,Melodic House,AIFF,74251954,420,2020,125.0,2024-01-20,0,Adana Twins - Origo (Original Mix) [Cocoon Recordings],4A,Cocoon Recordings,2025-12-12 14:53:56
+622,Help (Extended Mix),ANOTR,Help EP,"Deep Tech, Minimal",AIFF,82154678,465,2017,124.0,2024-01-20,2,ANOTR - Help (Extended Mix) [NO ART],11A,NO ART,2025-12-12 14:53:56
+623,What is House (Original Mix),ANOTR,What Is House,Tech House,MP3,14477313,358,2016,124.0,2024-01-20,0,ANOTR - What is House (Original Mix) [AVOTRE],1A,AVOTRE,2025-12-12 14:53:56
+624,Tataki,Argy,Tataki,Melodic Techno,AIFF,57896338,327,2022,122.0,2024-01-20,0,Argy - Tataki [Afterlife Records],7A,Afterlife Records,2025-12-12 14:53:56
+625,Pantheon (Extended Mix),"Argy, Goom Gum",Pantheon,Melodic Techno,AIFF,67465366,382,2023,120.0,2024-01-20,0,"Argy, Goom Gum - Pantheon (Extended Mix) [Afterlife Records]",7A,Afterlife Records,2025-12-12 14:53:56
+626,Hungry For The Power (Jamie Jones Ridge Street Remix),"Azari And III, Jamie Jones",Hungry For The Power,Deep House,MP3,16310179,406,2012,124.0,2024-01-20,0,"Azari And III, Jamie Jones - Hungry For The Power (Jamie Jones Ridge Street Remix) [Turbo Recordings]",8A,Turbo Recordings,2025-12-12 14:53:56
+627,Nobody's Fool,ANOTR,Mighty Kingdom EP,Tech House,MP3,17259772,430,2016,125.0,2024-06-02,0,ANOTR - Nobody's Fool [DFTD],6A,,2025-12-12 14:53:56
+628,Summer In The Studio (Extended Mix),ANOTR,Summer In The Studio,House,AIFF,76859498,435,2018,126.0,2024-06-02,4,ANOTR - Summer In The Studio (Extended Mix) [NO ART],4A,NO ART,2025-12-12 14:53:56
+629,Cash For Love (Extended Mix) ,Carlita,Cash For Love (26 Jan 2024),House,AIFF,69156566,391,2023,125.0,2024-06-02,2,Carlita - Cash For Love (Extended Mix) [CircoLoco Records],12A,CircoLoco Records,2025-12-12 14:53:56
+630,Planet Zero,Dimmish,Planet Zero EP,"Deep Tech, Minimal",AIFF,74330608,420,2021,128.0,2024-06-02,3,Dimmish - Planet Zero [Locus],2A,Locus,2025-12-12 14:53:56
+631,Troll (Original Mix),Dimmish,Lunar EP,"Deep Tech, Minimal",MP3,18619847,462,2019,126.0,2024-06-02,3,Dimmish - Troll (Original Mix) [Solid Grooves Records],1A,,2025-12-12 14:53:56
+632,Let You Go,DJOKO,Hen & Goose 002,House,AIFF,72692394,411,2020,122.0,2024-06-02,0,Djoko - Let You Go [recordJet],4A,recordJet,2025-12-12 14:53:56
+633,Overflow (Original Mix),DJOKO,Overflow,"Deep Tech, Minimal",AIFF,56091624,316,2020,128.0,2024-06-02,1,DJOKO - Overflow (Original Mix) [Rawsome Deep],10A,Rawsome Deep,2025-12-12 14:53:56
+634,Message in a bottle,Hostox,,Deep House,WAV,87498508,496,0,125.0,2024-06-02,0,Hostox - Message in a bottle,7A,,2025-12-12 14:53:56
+635,Feel for You,Toman,Best of Moscow Records 2020,"Deep Tech, Minimal",AIFF,74839774,423,2021,127.0,2024-06-02,6,Toman - Feel for You [Moscow Records],4A,Moscow Records,2025-12-12 14:53:56
+636,Buscando Money (Extended Mix) ,"TWENTY SIX, Tayson Kryss",Buscando Money,"Deep Tech, Minimal",AIFF,55928100,316,2023,128.0,2024-06-02,1,"TWENTY SIX, Tayson Kryss - Buscando Money (Extended Mix) [Glasgow Underground]",8A,Glasgow Underground,2025-12-12 14:53:56
+637,Don't Hesitate (Original Mix),Toman,,"Deep Tech, Minimal",MP3,15813606,395,0,127.0,2024-06-09,3,Toman - Don't Hesitate (Original Mix),1A,,2025-12-12 14:53:56
+638,Universal Love ,ANOTR,Universal Love EP,"Deep Tech, Minimal",AIFF,59917846,339,2019,126.0,2024-06-09,3,ANOTR - Universal Love [NO ART],6A,NO ART,2025-12-12 14:53:56
+639,Witch Doctor (Ft. Nic Fanciulli) [Extended Mix],"John Summit, Nic Fanciulli",,Tech House,MP3,13619200,339,0,126.0,2024-06-09,2,John Summit - Witch Doctor (Ft. Nic Fanciulli [Extended Mix]) [Saved Records],4A,,2025-12-12 14:53:56
+640,Thin Line (Extended Mix) ,"John Summit, GUZ (NL)",Thin Line,House,AIFF,61049738,345,2020,125.0,2024-06-09,0,"John Summit, GUZ (NL) - Thin Line (Extended Mix) [D4 D4NCE]",2A,D4 D4NCE,2025-12-12 14:53:56
+641,Beat Boss (Original Mix),Latmun,Funky Drummer EP,Tech House,AIFF,74019576,419,2018,126.0,2024-06-09,0,Latmun - Beat Boss (Original Mix) [ElRow Music],2B,ElRow Music,2025-12-12 14:53:56
+642,Da Revolution,Luuk Van Dijk,,"Deep Tech, Minimal",MP3,10041344,250,0,128.0,2024-06-09,3,Luuk Van Dijk - Da Revolution [NO ART],6A,,2025-12-12 14:53:56
+643,Don't Call Me Baby (Joshwa Extended Remix) ,"Madison Avenue, Joshwa",Don't Call Me Baby (Joshwa Remix),"Deep Tech, Minimal",AIFF,63232164,358,2022,129.0,2024-06-09,0,Madison Avenue - Don't Call Me Baby (Joshwa Extended Remix) [Vicious],3A,Vicious,2025-12-12 14:53:56
+644,Drugs From Amsterdam (Original Mix),Mau P,Drugs From Amsterdam,Tech House,AIFF,57813800,326,2022,125.0,2024-06-09,1,Mau P - Drugs From Amsterdam (Original Mix) [Repopulate Mars],2A,Repopulate Mars,2025-12-12 14:53:56
+645,Da Fonk (Ft. Joni),"Mochakk, Joni",Da Fonk (feat. Joni),House,AIFF,105528910,366,0,127.0,2024-06-09,1,"Mochakk, Joni - Da Fonk (Ft. Joni) [Nervous Records]",8A,Nervous Records,2025-12-12 14:53:56
+646,Itsa Trumpet Thing (Extended Mix),"Tom Staar, Gordon Edge",,House,MP3,14214615,352,0,126.0,2024-06-09,2,"Tom Staar, Gordon Edge - Itsa Trumpet Thing (Extended Mix) [CARTEL MUSIC]",3A,,2025-12-12 14:53:56
+647,La Mandanga,Dani Masi & Santos Garcia,La Mandanga,Tech House,AIFF,72537750,410,2020,126.0,2024-06-09,0,Dani Masi & Santos Garcia - La Mandanga [WINLIKE Music],7B,WINLIKE Music,2025-12-12 14:53:56
+648,Boogie Dance (Original Mix),George Smeddles,Boogie Dance EP,Tech House,AIFF,76987340,435,2019,125.0,2024-06-09,0,George Smeddles - Boogie Dance (Original Mix) [Under No Illusion],1A,Under No Illusion,2025-12-12 14:53:56
+649,Jus' Come (Original Mix),Mark Knight & Tuff London,This Is Toolroom 2018,Tech House,AIFF,75235906,426,2017,124.0,2024-06-09,1,Mark Knight & Tuff London - Jus' Come (Original Mix) [Toolroom],3A,Toolroom,2025-12-12 14:53:56
+650,Lucky Escape (Original Mix) ,Mojan,Lucky Escape (27 Aug 2021),"Deep Tech, Minimal",AIFF,69503012,393,2021,129.0,2024-06-09,2,Mojan - Lucky Escape (Original Mix) [7 Pot Primo],6A,7 Pot Primo,2025-12-12 14:53:56
+651,Lauren (I Can't Stay Forever) (Claptone Extended Remix) ,Oden & Fatzo,Lauren (I Can't Stay Forever) (Claptone Remix),House,AIFF,66166484,374,2022,125.0,2024-06-09,0,Oden & Fatzo - Lauren (I Can't Stay Forever Claptone Extended Remix) [ColumbiaB1 Recordings],9A,ColumbiaB1 Recordings,2025-12-12 14:53:56
+652,Sola (Original Mix),Tom & Collins,Time To Fly,House,AIFF,71745544,405,2019,124.0,2024-06-09,1,Tom & Collins - Sola (Original Mix) [Mother Recordings],12A,Mother Recordings,2025-12-12 14:53:56
+653,Fantanized ,Toman,Otopeni EP (08 Apr 2019),"Deep Tech, Minimal",AIFF,86535966,490,2019,126.0,2024-06-09,2,Toman - Fantanized  [NO ART],11A,NO ART,2025-12-12 14:53:56
+654,Little Gurl (Extended Mix),Ammo Avenue,Little Gurl,"Deep Tech, Minimal",MP3,17039720,421,2021,127.0,2024-06-09,3,Ammo Avenue - Little Gurl (Extended Mix) [Black Book Records],11A,Black Book Records,2025-12-12 14:53:56
+655,Work My Body,Blass (ITA),Bassline,Tech House,AIFF,61714608,349,0,125.0,2024-06-09,4,Blass (ITA) - Work My Body [Black Habitat],11A,Black Habitat,2025-12-12 14:53:56
+656,Take It (Extended Mix) ,Chris Coburn,Take It EP (17 Jun 2022),"Deep Tech, Minimal",AIFF,58364746,329,2022,129.0,2024-06-09,1,Chris Coburn - Take It (Extended Mix) [Ole Groove],1A,Ole Groove,2025-12-12 14:53:56
+657,Dr. Felix ,Fabrizio Testoni,Eli.sound Presents_ Fabrizio Testoni From ITALY,"Deep Tech, Minimal",AIFF,56799697,321,2021,127.0,2024-06-18,4,Fabrizio Testoni - Dr. Felix  [eli.waxx],1A,eli.waxx,2025-12-12 14:53:56
+658,Saturn Jazz,Lukaiz,My Art,"Deep Tech, Minimal",MP3,17365202,434,2022,129.0,2024-06-18,0,Lukaiz - Saturn Jazz,6A,,2025-12-12 14:53:56
+659,Elektronate (Original Mix),Luuk Van Dijk,Da Beat EP,"Deep Tech, Minimal",MP3,14645896,363,0,128.0,2024-06-18,1,Luuk Van Dijk - Elektronate (Original Mix) [Solid Grooves Raw],6A,,2025-12-12 14:53:56
+660,Face,Luuk Van Dijk,Body,"Deep Tech, Minimal",MP3,15763456,394,2015,124.0,2024-06-18,1,Luuk Van Dijk - Face [Roush],2A,,2025-12-12 14:53:56
+661,Space Runner (Archie Hamilton Remix),"Mateo Dufour, Cosenza",Space Runner,"Deep Tech, Minimal",AIFF,80421450,455,2021,129.0,2024-06-18,0,"Mateo Dufour, Cosenza - Space Runner (Archie Hamilton Remix) [Key Records]",3A,Key Records,2025-12-12 14:53:56
+662,The Field (Original Mix),100Hz,Mila EP,House,MP3,15969426,398,2009,130.99,2024-08-07,0,100Hz - The Field (Original Mix) [Bosconi Records],7B,Bosconi Records,2025-12-12 14:53:56
+663,400 (Extended Mix),Chris Lake,Black Book ID's: Chapter 3,Tech House,MP3,11770222,292,2022,125.0,2024-08-07,0,Chris Lake - 400 (Extended Mix) [Black Book Records],4A,Black Book Records,2025-12-12 14:53:56
+664,Do To Me,Cristoph,Do To Me EP,House,MP3,18329703,457,2014,123.0,2024-08-07,0,Cristoph - Do To Me [DFTD],2A,DFTD,2025-12-12 14:53:56
+665,Oh Oh (Original Mix),Detlef,Kinky Tail EP,Tech House,MP3,17552743,435,2016,124.0,2024-08-07,1,Detlef - Oh Oh (Original Mix) [Hot Creations],9A,Hot Creations,2025-12-12 14:53:56
+666,Saving Up (Extended) ,Dom Dolla,Saving Up (Extended),House,AIFF,61440256,347,2023,130.0,2024-08-07,0,Dom Dolla - Saving Up (Extended) [Three Six Zero Recordings],2A,Three Six Zero Recordings,2025-12-12 14:53:56
+667,The Drums (Din Daa Daa) (Original Mix),"Claptone,George Kranz",The Drums (Din Daa Daa),House,AIFF,72615912,411,2017,122.0,2024-08-07,0,"George Kranz, Claptone - The Drums (Din Daa Daa Original Mix) [Different]",9A,Different,2025-12-12 14:53:56
+668,Call You Back,Josh Butler,"Heroes of House, Vol. 3",Tech House,AIFF,77141514,429,0,126.0,2024-08-07,0,Josh Butler - Call You Back [ORIGINS RCRDS],8A,ORIGINS RCRDS,2025-12-12 14:53:56
+669,Transitions,Mark Knight Ft. Adrian hour,Chaos Theory EP,Tech House,MP3,14932232,371,2015,124.0,2024-08-07,0,Mark Knight & Adrian Hour - Transitions [Toolroom Trax],10A,Toolroom Trax,2025-12-12 14:53:56
+670,Method Man (Original Club Mix),Mihalis Safras & Siwell,Secret Weapons WEB,House,MP3,17985872,449,2015,126.0,2024-08-07,0,Mihalis Safras & Siwell - Method Man (Original Club Mix) [Toolroom Longplayer],4A,Toolroom Longplayer,2025-12-12 14:53:56
+671,Materia (Robert Hood Remix),Nic Fanciulli,Global Underground: TWENTY (Digital Sampler),Tech House,MP3,20885531,521,2016,127.03,2024-08-07,0,Nic Fanciulli - Materia (Robert Hood Remix),1A,,2025-12-12 14:53:56
+672,Accelerator (Extended Mix),"CamelPhat, Solardo",Accelerator - Extended Mix,Tech House,AIFF,71218750,403,2018,124.0,2024-08-07,0,"CamelPhat, Solardo - Accelerator (Extended Mix) [Ultra]",6A,Ultra,2025-12-12 14:53:56
+673,Mont Blanc,"Chris Stussy, Toman",Whatudo EP,"Deep Tech, Minimal",MP3,15361953,382,2019,127.0,2024-08-07,4,"Chris Stussy, Toman - Mont Blanc [Meta]",1A,Meta,2025-12-12 14:53:56
+674,Elevate ,"Dead Space, G. Felix",Elevate,Tech House,AIFF,73242158,414,2019,125.0,2024-08-07,1,"Dead Space, G. Felix - Elevate  [South Of Saturn]",5B,South Of Saturn,2025-12-12 14:53:56
+675,Eres ,Francisco Allendes Ft. Be Manu,"Eres, Idive (13 Aug 2018)",Tech House,AIFF,69459226,393,0,127.0,2024-08-07,4,Francisco Allendes feat. Be Manu - Eres  [8Bit],11B,8Bit,2025-12-12 14:53:56
+676,Bye Boy (Original Mix),JUST CHACE,Bye Boy,Tech House,MP3,14995402,369,2021,126.0,2024-08-07,0,JUST CHACE - Bye Boy (Original Mix) [NastyFunk Records],11A,NastyFunk Records,2025-12-12 14:53:56
+677,Masina (Extended Version) ,"Matthias Tanzmann, Black Circle",Masina (Extended Version),Tech House,AIFF,67536152,382,2020,123.0,2024-08-07,1,"Matthias Tanzmann, Black Circle - Masina (Extended Version) [Moon Harbour Recordings]",10A,Moon Harbour Recordings,2025-12-12 14:53:56
+678,Wiggida Wack (Original Mix),Mirco Caruso,Wiggida Wack EP (27 Jan 2017),Tech House,MP3,22390912,460,2017,124.0,2024-08-07,1,Mirco Caruso - Wiggida Wack (Original Mix) [2Drop Records],1A,2Drop Records,2025-12-12 14:53:56
+679,Jealous (Extended Mix),Mochakk,Jealous,House,AIFF,60938134,344,2023,128.0,2024-08-07,1,Mochakk - Jealous (Extended Mix) [CircoLoco Records],4B,CircoLoco Records,2025-12-12 14:53:56
+680,Skasy ,Rafa Barrios,Skasy,Tech House,AIFF,64602924,365,2019,126.0,2024-08-07,1,Rafa Barrios - Skasy  [Repopulate Mars],4A,Repopulate Mars,2025-12-12 14:53:56
+681,Voy Voy (Extended Mix),"Vitor Vinter, Sudden Heat",Off The Grid Excursions: Vol. I,Tech House,MP3,12505710,308,2022,128.0,2024-08-07,1,"Vitor Vinter, Sudden Heat - Voy Voy (Extended Mix) [Off The Grid]",6A,Off The Grid,2025-12-12 14:53:56
+683,The Rapture Pt.II ,&ME,The Rapture Pt.II,Afro House,AIFF,90527754,512,2018,120.0,2025-01-02,0,&ME - The Rapture Pt.II  [Keinemusik],3A,Keinemusik,2025-12-12 14:53:56
+684,The Rapture Pt.III (Original Mix),"&ME, Black Coffee",The Rapture Pt.III,Afro House,AIFF,85167084,482,2023,120.0,2025-01-02,0,"&ME, Black Coffee - The Rapture Pt.III (Original Mix) [Keinemusik]",9A,Keinemusik,2025-12-12 14:53:56
+685,The Dream (Ft. Martina Camargo) (Extended Mix) ,"Adam Port, Martina Camargo",,Afro House,AIFF,72385976,409,2023,119.0,2025-01-02,0,"Adam Port, Theus Mago - The Dream (Ft. Martina Camargo Extended Mix) [Defected]",10A,Defected,2025-12-12 14:53:56
+686,Does It Matter (Ajna (BE) Remix) ,"Ajna (BE), Samm (BE)",Does It Matter (Ajna (BE) Remix),Afro House,AIFF,71352956,404,2023,120.0,2025-01-02,1,"Ajna (BE), Samm (BE) - Does It Matter (Ajna BE Remix) [Magnifik Music]",6A,Magnifik Music,2025-12-12 14:53:56
+687,Want You (Need You) (Adam Port Remix),"Bell Towers, Adam Port",,Afro House,AIFF,91882584,520,2021,121.0,2025-01-02,1,Bell Towers - Want You (Need You Adam Port Remix) [Public Possession],5A,Public Possession,2025-12-12 14:53:56
+688,Mariposa (Bedouin Remix) ,"CANU, Nu, Alejandro Castelli, Bedouin",,Afro House,AIFF,91130452,515,0,121.0,2025-01-02,1,"CANU, Nu, Alejandro Castelli - Mariposa (Bedouin Remix) [Bar 25 Music]",9A,Bar 25 Music,2025-12-12 14:53:56
+689,Epika (Original Mix),"Guy Mantzur, Roy Rosenfeld",House Of Mo',Afro House,AIFF,91616518,518,2021,120.0,2025-01-02,1,"Guy Mantzur, Roy Rosenfeld - Epika (Original Mix) [MoBlack Records]",8A,MoBlack Records,2025-12-12 14:53:56
+690,Lovefool (Original Mix) ,Juan Yarin,,Afro House,AIFF,73707584,417,2022,123.0,2025-01-02,1,Juan Yarin - Lovefool (Original Mix) [Rumors],5B,Rumors,2025-12-12 14:53:56
+691,Serenity (Original Mix),Popof,,Melodic House,MP3,17162368,429,0,127.0,2025-01-02,0,Popof - Serenity (Original Mix) [Form],3A,,2025-12-12 14:53:56
+692,Underwater (Adam Port Remix),"Rufus Du Sol, Adam Port",,Melodic House,AIFF,70526500,399,2019,118.0,2025-01-02,0,Rufus Du Sol - Underwater (Adam Port Remix) [Rose Avenue_Reprise],11A,Rose Avenue/Reprise,2025-12-12 14:53:56
+693,The Rapture,&ME,Avalon EP,Afro House,AIFF,85081190,481,2017,120.0,2025-01-02,0,&ME - The Rapture [Keinemusik],8A,Keinemusik,2025-12-12 14:53:56
+694,You & Me (Rivo Extended Mix),"Disclosure, Eliza Doolittle, Rivo",,Afro House,MP3,14504549,362,2023,122.0,2025-01-10,0,Disclosure & Eliza Doolittle - You & Me (Rivo Extended Mix) [UMC (Universal Music Catalogue)],3A,,2025-12-12 14:53:56
+695,Papi (Bhabi),Eden Shalev,,Afro House,MP3,13899369,346,2022,119.0,2025-01-10,0,Eden Shalev - Papi (Bhabi) [MoBlack Records],5A,MoBlack Records,2025-12-12 14:53:56
+696,Two Zulu Men In Ibiza ,"Enoo Napa, DJ Merlon",Two Zulu Men In Ibiza EP,Afro House,AIFF,74396168,421,2022,120.0,2025-01-10,0,"Enoo Napa, DJ Merlon - Two Zulu Men In Ibiza  [Rise Music]",9A,Rise Music,2025-12-12 14:53:56
+697,The Light ,Fahlberg,The Light EP,Melodic House,AIFF,89422354,505,2022,122.0,2025-01-10,1,Fahlberg - The Light  [MoBlack Records],8A,MoBlack Records,2025-12-12 14:53:56
+698,Premier Gaou (Nitefreak Extended Remix),"Magic System, Francis Mercier, Nitefreak",,Afro House,MP3,15344146,381,2021,122.0,2025-01-10,1,"Magic System, Francis Mercier - Premier Gaou (Nitefreak Extended Remix) [SPINNIN' DEEP]",6A,,2025-12-12 14:53:56
+699,"More Love (Rampa, &ME Remix)","Moderat, Keinemusik",,Melodic House,AIFF,78180504,442,2023,122.0,2025-01-10,1,"Moderat, Keinemusik - More Love (Rampa, &ME Remix) [Keinemusik]",10A,Keinemusik,2025-12-12 14:53:56
+700,Another Life (Marten Lou Remix) (Original Mix),"Naomi Sharon, Marten Lou",,Afro House,MP3,12126336,303,2023,121.0,2025-01-10,0,Naomi Sharon - Another Life (Marten Lou Remix Original Mix) [OVO Sound],10A,,2025-12-12 14:53:56
+701,On My Knees (Adriatique Remix),Rufus Du Sol,Surrender (Remixes),Melodic House,AIFF,79821050,451,2022,120.0,2025-01-10,0,Rufus Du Sol - On My Knees (Adriatique Remix) [Rose Avenue_Reprise],4A,Rose Avenue/Reprise,2025-12-12 14:53:56
+702,Anchor Point (Ft. Stevo Atambire),"Ahmed Spins,Stevo Atambire",Anchor Point EP,Afro House,AIFF,63460768,359,2022,123.0,2025-01-10,0,"Stevo Atambire, Ahmed Spins - Anchor Point (Ft. Stevo Atambire)  [MoBlack Records]",8A,MoBlack Records,2025-12-12 14:53:56
+703,Miracle (Original Mix),"WhoMadeWho, Adriatique",,Melodic House,AIFF,67302050,380,2023,123.0,2025-01-10,0,"WhoMadeWho, Adriatique - Miracle (Original Mix) [Rose Avenue]",5A,Rose Avenue,2025-12-12 14:53:56
+704,Noir Infusion,"Chris Stussy, Toman",Whatudo EP,"Deep Tech, Minimal",MP3,16101741,400,2019,126.0,2025-01-10,0,"Chris Stussy, Toman - Noir Infusion [Meta]",11A,,2025-12-12 14:53:56
+705,Whatudo,"Chris Stussy, Toman",Whatudo EP,"Deep Tech, Minimal",MP3,17182165,427,2019,127.0,2025-01-10,0,"Chris Stussy, Toman - Whatudo [Meta]",4B,,2025-12-12 14:53:56
+706,Make Me Feel (Original Mix) ,John Summit,Make Me Feel (26 Mar 2021),Tech House,AIFF,65873654,372,2021,126.0,2025-01-10,1,John Summit - Make Me Feel (Original Mix) [Insomniac Records],5A,Insomniac Records,2025-12-12 14:53:56
+707,Show Me feat. Hannah Boleyn (Extended Mix) ,"John Summit, Hannah Boleyn",Show Me - Extended Mix,House,AIFF,57371166,323,2022,126.0,2025-01-10,0,"John Summit, Hannah Boleyn - Show Me feat. Hannah Boleyn (Extended Mix) [Off The Grid]",7A,Off The Grid,2025-12-12 14:53:56
+708,Summertime Chi (Original Mix),"Lee Foss, Hayley May, John Summit",Summertime Chi,House,AIFF,67568590,382,2020,126.0,2025-01-10,0,"Lee Foss, Hayley May, John Summit - Summertime Chi (Original Mix) [Repopulate Mars]",7A,Repopulate Mars,2025-12-12 14:53:56
+709,Moving (Original Mix),Max Chapman,Moving EP,Tech House,AIFF,70611900,398,2019,127.0,2025-01-10,0,Max Chapman - Moving (Original Mix) [Resonance Records],4A,Resonance Records,2025-12-12 14:53:56
+710,Arpideous ,Mochakk,All You Can Eat (All-Stars),Tech House,MP3,14035922,348,2020,124.0,2025-01-10,0,Mochakk - Arpideous  [Sweets & Treats],4A,,2025-12-12 14:53:56
+711,Better Than This (Extended Mix),"Parachute Youth, John Summit",Better Than This,Tech House,MP3,15231315,345,2021,125.0,2025-01-10,0,"Parachute Youth, John Summit - Better Than This (Extended Mix) [Sweat It Out]",8A,,2025-12-12 14:53:56
+712,Don Julio (Extended Mix),Shaded (LA),,Tech House,MP3,12501805,308,2023,128.0,2025-01-10,0,Shaded (LA) - Don Julio (Extended Mix) [Experts Only],2B,Experts Only,2025-12-12 14:53:56
+713,Mr. President,"Stefano Noferini, Danniel Selfmade",Mr. President,Tech House,MP3,19660046,488,2016,124.0,2025-01-10,0,"Stefano Noferini, Danniel Selfmade - Mr. President [Deeperfect Records]",2A,Deeperfect Records,2025-12-12 14:53:56
+714,Get Together (Extended Mix),"Robbie Rivera, David Tort",,Tech House,MP3,17331459,428,2016,124.0,2025-01-10,0,"Robbie Rivera, David Tort - Get Together (Extended Mix) [SPINNIN' DEEP]",5A,SPINNIN' DEEP,2025-12-12 14:53:56
+715,Calypso (Extended Mix),Round Table Knights,"Deep Cuts, Vol. 5",House,MP3,9066624,226,2017,126.0,2025-01-10,0,Round Table Knights - Calypso (Extended Mix),2A,,2025-12-12 14:53:56
+716,Lose Control,Cloonee,,"Deep Tech, Minimal",MP3,14639586,365,2019,126.0,2025-01-10,0,Cloonee - Lose Control [CLNE],8A,,2025-12-12 14:53:56
+717,Gajapati,Eduardo De La Calle,The Methodical Machines EP,"Deep Tech, Minimal",MP3,17864704,439,2014,125.0,2025-01-10,0,Eduardo De La Calle - Gajapati [Cadenza],11A,,2025-12-12 14:53:56
+718,The Lone Brazilian (Original Mix) ,Flashmob,The Lone Brazilian,"Deep Tech, Minimal",AIFF,69990096,396,0,124.0,2025-01-10,0,Flashmob - The Lone Brazilian (Original Mix) [Hot Creations],11A,Hot Creations,2025-12-12 14:53:56
+719,Same Man,Franky Rizardo,,House,MP3,15613629,388,2017,125.0,2025-01-10,0,Franky Rizardo - Same Man [Defected],9A,Defected,2025-12-12 14:53:56
+720,Liquor Store (Extended Mix) ,Joel Corry,Liquor Store,Tech House,AIFF,57208227,323,2022,125.0,2025-01-10,0,Joel Corry - Liquor Store (Extended Mix) [D4 D4NCE],9A,D4 D4NCE,2025-12-12 14:53:56
+721,(It Goes Like) Nanana,Peggy Gou,(It Goes Like) Nanana,House,AIFF,64866966,367,2023,130.0,2025-01-10,0,Peggy Gou -  (It Goes Like Nanana) [XL Recordings],6A,XL Recordings,2025-12-12 14:53:56
+722,I Go (Original Mix),Peggy Gou,I Go,House,AIFF,64758738,358,2021,120.0,2025-01-10,0,Peggy Gou - I Go (Original Mix) [Gudu Records],12A,Gudu Records,2025-12-12 14:53:56
+723,I Go (Soulwax Remix),"Peggy Gou, Soulwax",,Tech House,AIFF,72502060,410,0,125.0,2025-01-10,0,Peggy Gou - I Go (Soulwax Remix) [Gudu Records],12A,Gudu Records,2025-12-12 14:53:56
+724,Wakaru,ZÄBADAN & Cafe De Anatolia,Wakaru,Afro House,MP3,16969728,423,2023,123.0,2025-01-25,0,ZÄBADAN & Cafe De Anatolia - Wakaru [Cafe De Anatolia LAB],11A,Cafe De Anatolia LAB,2025-12-12 14:53:56
+725,Como Antes (Gama Remix),"Bad Bunny, Gama",,Afro House,WAV,90624146,471,0,120.0,2025-01-25,0,Bad Bunny - Como Antes (Gama Remix),8B,,2025-12-12 14:53:56
+726,Malo Okoma,Dj Poolboi,Stay Just A Little While Longer,Organic House,MP3,14298010,357,2022,118.0,2025-01-25,0,Dj Poolboi - malo okoma [Unbelievably Spectacular],12B,,2025-12-12 14:53:56
+727,Carbon (Extended Mix),Eli & Fur,,Organic House,AIFF,54538332,308,2021,110.0,2025-01-25,0,Eli & Fur - Carbon (Extended Mix) [Anjunadeep],12A,Anjunadeep,2025-12-12 14:53:56
+728,Otherside (Extended Mix) ,Eli & Fur,,Progressive House,AIFF,54847862,310,2020,126.0,2025-01-25,0,Eli & Fur - Otherside (Extended Mix) [SPINNIN' DEEP],4A,SPINNIN' DEEP,2025-12-12 14:53:56
+729,Fingerprint (Original Mix),Lane 8,Lane 8 Club Collection Volume One: Darker Instrumentals,Melodic House,MP3,16322883,404,2023,124.0,2025-01-25,0,Lane 8 - Fingerprint (Original Mix) [This Never Happened],4A,This Never Happened,2025-12-12 14:53:56
+730,Forget (Original Mix) ,"Lee Burridge, Lost Desert",Moogami EP,Organic House,AIFF,90060232,510,2020,121.0,2025-01-25,0,"Lee Burridge, Lost Desert - Forget (Original Mix) [TRYBESof]",7A,TRYBESof,2025-12-12 14:53:56
+731,Miradors (Lane 8 Remix),Solomon Grey,Miradors (Remixes),Melodic House,MP3,22027939,550,2015,123.0,2025-01-25,0,Solomon Grey - Miradors (Lane 8 Remix) [Anjunadeep],11A,Anjunadeep,2025-12-12 14:53:56
+732,Who's Afraid of Detroit (10 Year Anniversary Mix),Claude VonStroke,,Tech House,MP3,16027733,398,2016,124.0,2025-02-05,0,Claude VonStroke - Who's Afraid of Detroit (10 Year Anniversary Mix) [dirtybid],4A,dirtybid,2025-12-12 14:53:56
+733,The Ciggie (Original Mix) ,Cloonee,The Ciggie,Tech House,AIFF,65871848,373,2018,124.0,2025-02-05,0,Cloonee - The Ciggie (Original Mix) [Solid Grooves Raw],8A,Solid Grooves Raw,2025-12-12 14:53:56
+734,The Groove,Cloonee,,Tech House,MP3,14842403,371,2019,125.0,2025-02-05,0,Cloonee - The Groove [iCompilations],5A,iCompilations,2025-12-12 14:53:56
+735,Kinky Tail (Original Mix),Detlef,,Tech House,MP3,17623835,437,2016,124.0,2025-02-05,0,Detlef - Kinky Tail (Original Mix) [Hot Creations],9A,Hot Creations,2025-12-12 14:53:56
+736,Funk Dat (Original Mix),84Bit,The Best Of Monoside,House,AIFF,73117304,413,2019,121.0,2025-02-05,0,84Bit - Funk Dat (Original Mix) [MONOSIDE],3A,MONOSIDE,2025-12-12 14:53:56
+737,Love Dose (Luciano Remix),"Argy, Luciano",Chronographic,"Deep Tech, Minimal",MP3,16239836,404,2016,125.98,2025-02-05,0,"Argy, Luciano - Love Dose (Luciano Remix) [These Days]",3A,These Days,2025-12-12 14:53:56
+738,The Tribe ,"Ben Walsh (UK), Tate Flowers",,Tech House,AIFF,66399168,376,2020,127.0,2025-02-05,1,"Ben Walsh (UK), Tate Flowers - The Tribe  [Habitat]",1A,Habitat,2025-12-12 14:53:56
+739,Sete (Original Mix) ,"BLOND:ISH, Francis Mercier, Amadou & Mariam",,House,AIFF,69816566,395,2022,125.0,2025-02-05,0,"BLONDISH, Francis Mercier, Amadou & Mariam - Sete (Original Mix) [Insomniac Records]",11A,Insomniac Records,2025-12-12 14:53:56
+740,No Worries (Dennis Quin Remix),Butch,,House,AIFF,56489488,320,2022,126.0,2025-02-05,0,Butch - No Worries (Dennis Quin Remix) [Cecille],4A,Cecille,2025-12-12 14:53:56
+741,Olddays (Original Mix),"Caal, Baum",,Tech House,MP3,14085298,345,2016,125.0,2025-02-05,0,"Caal, Baum - Olddays (Original Mix) [Stereo Productions]",9A,Stereo Productions,2025-12-12 14:53:56
+742,It's Ours (Original Mix) ,"David Guetta, Idris Elba, ARTBAT",,Melodic Techno,AIFF,85388024,483,2022,127.0,2025-02-05,0,"David Guetta, Idris Elba, ARTBAT - It's Ours (Original Mix) [UPPERGROUND]",10A,UPPERGROUND,2025-12-12 14:53:56
+743,Turn On The Lights again.. (Ft. Future) (Solomun Remix),"Future, Swedish House Mafia, Fred again.., Solomun",,Melodic Techno,AIFF,63086428,357,2022,128.0,2025-02-05,0,"Future, Swedish House Mafia, Fred again.. - Turn On The Lights again.. (feat. Future Solomun Remix) [Atlantic Records UK]",10A,Atlantic Records UK,2025-12-12 14:53:56
+744,TARAKA (Extended Mix),Gordo,,Melodic Techno,MP3,16154088,402,2021,124.0,2025-02-05,0,Gordo - TARAKA (Extended Mix) [Ultra],5A,Ultra,2025-12-12 14:53:56
+745,Metro (Extended Mix),"Kevin de Vries, Mau P",Metro,Melodic Techno,AIFF,62837498,355,2023,125.0,2025-02-05,0,"Kevin de Vries, Mau P - Metro (Extended Mix) [Afterlife Records]",8A,Afterlife Records,2025-12-12 14:53:56
+746,Love Idol (Original Mix),Mathias Schaffhäuser,Love Idol,Melodic Techno,MP3,28700672,716,2018,124.0,2025-02-05,0,Mathias Schaffhäuser - Love Idol (Original Mix),9B,,2025-12-12 14:53:56
+747,Sleepless (Stephan Bodzin Remix),Pan-Pot,The Other Remixes,Melodic Techno,MP3,21697684,540,2015,120.0,2025-02-05,0,Pan-Pot - Sleepless (Stephan Bodzin Remix) [Second State],8A,Second State,2025-12-12 14:53:56
+748,Vanishing,Tale Of Us & Fideles,Unity Pt. 2,Melodic Techno,AIFF,65634510,371,2021,122.0,2025-02-05,0,Tale Of Us & Fideles - Vanishing [Afterlife Records],7A,Afterlife Records,2025-12-12 14:53:56
+749,Atlas,Artbat,Upperground - EP,Melodic Techno,MP3,18260174,454,2019,122.0,2025-02-05,0,Artbat - Atlas [Diynamic],2A,Diynamic,2025-12-12 14:53:56
+750,Believe (Extended Mix),"CamelPhat, Mathame",Believe,Melodic Techno,AIFF,81414216,461,2022,128.0,2025-02-05,0,"CamelPhat, Mathame - Believe (Extended Mix) [Astralwerks]",3A,Astralwerks,2025-12-12 14:53:56
+751,Unstable Gravity Alert (Original Mix),Colyn,Unity Pt. 3,Melodic Techno,AIFF,70883060,401,2022,123.0,2025-02-05,0,Colyn - Unstable Gravity Alert (Original Mix) [Afterlife Records],1A,Afterlife Records,2025-12-12 14:53:56
+752,Antilope ,Amentia,Miracle D'Hwange,Organic House,MP3,21431302,533,0,122.0,2025-03-11,0,Amentia - Antilope  [Sol Selectas],5A,Sol Selectas,2025-12-12 14:53:56
+753,Slime You Out (Ft. SZA) (Samson Remix),"Drake, Samson",,Afro House,WAV,80681360,304,0,122.0,2025-03-11,0,Drake - Slime You Out (Samson Remix),4A,,2025-12-12 14:53:56
+754,Benediction (JAMA Edit),"Hot Natured, JAMA",,Afro House,MP3,11642338,291,0,120.0,2025-03-11,0,Hot Natured - Benediction (JAMA Edit),3A,,2025-12-12 14:53:56
+755,Kailani (Original Mix) ,Mark Alow,Summer Sol III,Organic House,AIFF,79012552,447,0,122.0,2025-03-11,0,Mark Alow - Kailani (Original Mix) [Sol Selectas],5A,Sol Selectas,2025-12-12 14:53:56
+756,Teach Me,Adam Beyer,,Techno,MP3,23982492,594,2014,126.0,2025-03-11,0,Adam Beyer - Teach Me [Drumcode],2A,Drumcode,2025-12-12 14:53:56
+757,Ultimate Distortion ,"Alan Fitzpatrick, Rebuke",Ultimate Distortion,Techno,AIFF,67188010,380,2020,128.0,2025-03-11,0,"Alan Fitzpatrick, Rebuke - Ultimate Distortion  [We Are The Brave]",6A,We Are The Brave,2025-12-12 14:53:56
+758,Interference (Regal Remix),Alignment,Interference,Techno,AIFF,67961464,384,2019,136.0,2025-03-11,0,Alignment - Interference (Regal Remix) [Etruria Beat],9A,Etruria Beat,2025-12-12 14:53:56
+759,DARE U (Original Mix),CIREZ D,DARE U,Techno,AIFF,98746136,559,2018,126.0,2025-03-11,1,CIREZ D - DARE U (Original Mix) [Mouseville],6A,Mouseville,2025-12-12 14:53:56
+760,Kronos (Extended Mix) ,Hi-Lo,Kronos,Techno,AIFF,70183192,397,2020,126.0,2025-03-11,0,Hi-Lo - Kronos (Extended Mix) [Octopus Records],9A,Octopus Records,2025-12-12 14:53:56
+761,Enlil ,"Ignacio Arfeli, I Am Bam",Atish EP,Techno,AIFF,95495240,497,2019,132.01,2025-03-11,0,"Ignacio Arfeli, I Am Bam - Enlil  [Suara]",9B,Suara,2025-12-12 14:53:56
+762,EXILE 007 B2 (Original Mix),Johannes Heil,EXILE 007,Techno,MP3,16818620,419,2017,129.0,2025-03-11,0,Johannes Heil - EXILE 007 B2 (Original Mix) [EXILE],4B,EXILE,2025-12-12 14:53:56
+763,Kingswing (Original Mix),Matador (IE),Kingswing EP,Techno,MP3,16617003,415,2011,124.0,2025-03-11,0,Matador (IE) - Kingswing (Original Mix) [Minus],6A,Minus,2025-12-12 14:53:56
+764,Losing Part of Me ,Pig & Dan,Infinity,Techno,AIFF,102511466,533,2019,128.0,2025-03-11,0,Pig&Dan - Losing Part of Me  [Drumcode],4A,Drumcode,2025-12-12 14:53:56
+765,Eclipse (Original Mix),Wehbba,Eclipse EP,Techno,AIFF,75653864,428,2018,127.0,2025-03-11,0,Wehbba - Eclipse (Original Mix) [Drumcode],8A,Drumcode,2025-12-12 14:53:56
+766,Heartbeat (Ft. Nathan Nicholson) (Original Mix),Claptone,Charmer,Deep House,MP3,13188836,329,2015,120.0,2025-03-12,0,Claptone - Heartbeat feat. Nathan Nicholson (Original Mix),3A,,2025-12-12 14:53:56
+767,United (Original Mix),Claptone,Ghost,Deep House,MP3,16708501,416,0,120.0,2025-03-12,0,Claptone - United (Original Mix) [Exploited],2A,,2025-12-12 14:53:56
+768,Loreley,Kölsch,,House,MP3,13805616,345,2015,128.0,2025-03-12,0,Kölsch - Loreley [Kontor],8A,Kontor,2025-12-12 14:53:56
+769,El Ritmo De Verdad (Extended),Lego,,House,MP3,15607131,388,0,123.99,2025-03-12,0,Lego - El Ritmo De Verdad (Extended) [ITH],6A,,2025-12-12 14:53:56
+770,Junoka (Original Mix),Marek Hemmann,Freude Am Tanzen Pres. Bees & Wine,Deep House,AIFF,69457818,392,2023,128.0,2025-03-12,0,Marek Hemmann - Junoka (Original Mix) [Freude Am Tanzen Recordings],10A,Freude Am Tanzen Recordings,2025-12-12 14:53:56
+771,You Ain't The Problem (Claptone Extended Remix),Michael Kiwanuka,You Ain't The Problem,House,AIFF,59789076,338,2019,124.4,2025-03-12,0,Michael Kiwanuka - You Ain't The Problem (Claptone Extended Remix) [Polydor Records],1A,Polydor Records,2025-12-12 14:53:56
+772,Freedom (Mat.Joe Remix),"Mihalis Safras, Raffa FL, Mat.Joe",Freedom,Tech House,MP3,16639761,414,2015,124.0,2025-03-12,0,"Mihalis Safras, Raffa FL, Mat.Joe - Freedom (Mat.Joe Remix) [Glasgow Underground]",1A,,2025-12-12 14:53:56
+773,Bonita (Original Mix),Ninetoes,Moon Harbour Best of 2017,House,AIFF,74789160,423,2017,123.0,2025-03-12,0,Ninetoes - Bonita (Original Mix) [Moon Harbour Recordings],10B,Moon Harbour Recordings,2025-12-12 14:53:56
+774,Pushing On,Oliver Dollar And Jimi Jules,Pushing On,House,MP3,16693333,417,2014,122.0,2025-03-12,0,Oliver Dollar Ft. Jimi Jules - Pushing On,10A,,2025-12-12 14:53:56
+775,Organ Ride,"Peppe Citarella, Davide Fiorese",,House,MP3,12786778,318,2017,123.0,2025-03-12,0,"Peppe Citarella, Davide Fiorese - Organ Ride [Union Records]",8A,,2025-12-12 14:53:56
+776,Keep Moving,"Leftwing, Kody",Knee Deep in Sound: Miami 2016 Sampler,Tech House,MP3,15051641,374,2016,123.0,2025-03-12,0,"Leftwing, Kody - Keep Moving [Knee Deep In Sound]",9A,,2025-12-12 14:53:56
+777,Roxan,Leonardo Gonnelli,Mexico 2016 Sampler,Tech House,MP3,16470424,409,2016,123.0,2025-03-12,0,Leonardo Gonnelli - Roxan [Knee Deep In Sound],2A,,2025-12-12 14:53:56
+778,Whitness,Miguel Bastida,Whitness EP - Suara,Tech House,MP3,16352706,403,2015,124.0,2025-03-12,0,Miguel Bastida - Whitness [Suara],6A,,2025-12-12 14:53:56
+779,Slave To Rhythm (Original Mix) ,Pig & Dan,Tunnel Vision (30 Mar 2020),Techno,AIFF,84800654,479,2020,128.0,2025-03-12,0,Pig&Dan - Slave To Rhythm (Original Mix) [Drumcode],11A,Drumcode,2025-12-12 14:53:56
+780,"Sweet Disposition (John Summit, Silver Panda Extended Remix)","The Temper Trap, John Summit, Silver Panda",,Melodic Techno,MP3,13931111,344,2024,126.0,2025-03-12,0,"The Temper Trap - Sweet Disposition (John Summit, Silver Panda Extended Remix) [Experts Only]",10A,Experts Only,2025-12-12 14:53:56
+781,I Will Do Better (Original Mix),Themba,2018: The Review,House,AIFF,65900206,372,2018,124.0,2025-03-12,0,Themba - I Will Do Better (Original Mix) [Knee Deep In Sound],2A,Knee Deep In Sound,2025-12-12 14:53:56
+782,Slow Motion (Extended Mix),Volaris,,Melodic Techno,MP3,15740371,389,2022,127.0,2025-03-12,0,Volaris - Slow Motion (Extended Mix) [Off The Grid],4A,Off The Grid,2025-12-12 14:53:56
+783,Projection,Dosem,Best of Toolroom 2017,Tech House,AIFF,66319820,375,2017,124.0,2025-03-12,0,Dosem - Projection [Toolroom],9A,Toolroom,2025-12-12 14:53:56
+784,Never Grow Old (Re-Plant),Floorplan,Never Gow Old (Re-Plant) / Phobia (Re-Plant),Techno,MP3,17649553,440,2014,132.12,2025-03-12,0,Floorplan - Never Grow Old (Re-Plant) [M-Plant],11A,,2025-12-12 14:53:56
+785,Hungover (Ft. Camden Cox) (Extended Mix),"John Summit, Mathame",,Melodic Techno,MP3,10385379,257,2023,136.0,2025-03-12,0,"John Summit, Mathame - Hungover (Ft. Camden Cox) (Extended Mix) [Experts Only]",7A,Experts Only,2025-12-12 14:53:56
+786,No Worries (Toman RMX),"Butch, Toman",No Worries '22,"Deep Tech, Minimal",AIFF,93891804,488,2022,126.0,2025-04-10,0,Butch - No Worries (Toman RMX) [Cecille],9A,Cecille,2025-12-12 14:53:56
+787,No Worries,Butch,Defected Presents DJ Haus In the House,House,AIFF,78049382,442,2017,126.0,2025-04-10,0,Butch - No Worries [Defected],12A,Defected,2025-12-12 14:53:56
+788,Non stop it (Original Mix) ,"Javi Miramontes, Antonello Camboni",COCOA SUMMER VIBES V.A.,"Deep Tech, Minimal",AIFF,63411718,356,2023,130.0,2025-04-10,0,"Javi Miramontes, Antonello Camboni - Non stop it (Original Mix) [Cocoa]",4B,Cocoa,2025-12-12 14:53:56
+789,SOL (Extended Mix) ,KC Lights,SOL,Tech House,AIFF,54353880,307,2019,125.0,2025-04-10,0,KC Lights - SOL (Extended Mix) [Toolroom],6B,Toolroom,2025-12-12 14:53:56
+790,I Feel Love (Club Mix),Kevin McKay,I Feel Love (Club Mix),House,MP3,16958433,422,2018,125.0,2025-04-10,0,Kevin McKay - I Feel Love (Club Mix) [Glasgow Underground],6A,Glasgow Underground   ,2025-12-12 14:53:56
+791,Selecao (feat. Shovell),Mark Knight,Best of Toolroom 2018,Tech House,AIFF,70454998,398,2018,122.0,2025-04-10,0,Mark Knight - Selecao (feat. Shovell) [Toolroom],1A,Toolroom,2025-12-12 14:53:56
+792,Bang! (Original Mix),"Mark Knight, Alan Banjo",Bang!,Tech House,MP3,15801687,392,2016,125.0,2025-04-10,0,"Mark Knight, Alan Banjo - Bang! (Original Mix) [1605]",6A,,2025-12-12 14:53:56
+793,Live Stream (Noizu Extended Mix) ,"Mark Knight, Rene Amesz, Green Velvet",Live Stream (Noizu Remix),Tech House,AIFF,56141452,317,2023,127.0,2025-04-10,0,"Mark Knight, Rene Amesz, Green Velvet - Live Stream (Noizu Extended Mix) [Toolroom]",4A,Toolroom,2025-12-12 14:53:56
+794,La Fiesta (Original Mix),Max Chapman,Toolroom Amsterdam 2017,Tech House,AIFF,82797950,469,2017,124.0,2025-04-10,0,Max Chapman - La Fiesta (Original Mix) [Toolroom],1A,Toolroom,2025-12-12 14:53:56
+795,Iboga,OC & Verde,Maasai,Tech House,MP3,20122196,501,2016,124.0,2025-04-10,0,OC & Verde - Iboga [Knee Deep In Sound],10A,Knee Deep In Sound,2025-12-12 14:53:56
+796,Shamanize (Extended Mix),The Deepshakerz & Simon Kidzoo,"Toolroom House Party, Vol. 3",Tech House,AIFF,60013088,339,2020,125.0,2025-04-10,0,The Deepshakerz & Simon Kidzoo - Shamanize (Extended Mix) [Toolroom],6A,Toolroom,2025-12-12 14:53:56
+798,Father Stretch (CS Remix),"Kanye West, CS",,,WAV,85612006,323,0,122.0,2025-09-27,0,Father Stretch - CS Remix,8A,,2025-12-12 14:53:56
+799,Stubborn (Lovless Youth Remix),"Victony, Asake, Lovless Youth",,,WAV,70251344,265,0,120.0,2025-09-27,0,"Victony, Asake - Stubborn (Lovless Youth Remix) FINAL MASTERING 24bit, 44.1Hz",7A,,2025-12-12 14:53:56
+800,Elements (Original Mix) ,Gianni Romano & Aura,Elements (09 Mar 2020),Tech House,MP3,13250153,326,2020,125.0,2025-09-27,0,Gianni Romano & Aura - Elements (Original Mix) [SwitchLab],11A,SwitchLab,2025-12-12 14:53:56
+801,Drop It (Mason Maynard Extended Mix) ,CamelPhat,Drop It (Mason Maynard Remix),Tech House,AIFF,67864846,384,2018,125.0,2025-09-27,0,CamelPhat - Drop It (Mason Maynard Extended Mix) [Sola],6A,Sola,2025-12-12 14:53:56
+802,Drop It (Original Mix),CamelPhat,Monsters EP,Tech House,MP3,14298305,355,2017,125.0,2025-09-27,0,CamelPhat - Drop It (Original Mix) [Sola],9A,Sola,2025-12-12 14:53:56
+803,River Mountain,"Chris Stussy, Toman",Whatudo EP,"Deep Tech, Minimal",MP3,17442345,434,2019,125.0,2025-09-27,0,"Chris Stussy, Toman - River Mountain [Meta]",9A,Meta,2025-12-12 14:53:56
+804,I Want (Original Mix),Ciszak,Dirtybird Campout Compilation,Tech House,MP3,15830926,393,2016,124.0,2025-09-27,0,Ciszak - I Want (Original Mix) [Dirtybird],6A,Dirtybird,2025-12-12 14:53:56
+805,Tic Tac,Dj Fronter,Tic Tac EP,Tech House,AIFF,73717978,416,2021,127.0,2025-09-27,0,Dj Fronter - Tic Tac [Hottrax],6A,Hottrax,2025-12-12 14:53:56
+806,We Dream,Francesco Poggi,Revolution,Deep House,MP3,15131743,377,2016,123.0,2025-09-27,0,Francesco Poggi - We Dream [Go Deeva Records],6A,Go Deeva Records,2025-12-12 14:53:56
