@@ -177,6 +177,8 @@ def file_type_bar(filtered_df):
     )
     # Personalizamos el texto del grafico
     file_type_bar.update_layout(
+        paper_bgcolor='white',  # background outside the plot
+        plot_bgcolor='white',
         title=dict(
             font=dict(color='black', size=22),x=0.5,xanchor = 'center'
         ),
@@ -211,6 +213,8 @@ def bpm_hist(filtered_df,collection_df):
     )
     # Personalizamos el texto del grafico
     bpm_hist.update_layout(
+    paper_bgcolor='white',  # background outside the plot
+    plot_bgcolor='white',    
     title=dict(
         text='Histograma de los BPM',
         font=dict(color='black', size=22), x=0.5, xanchor = 'center'
@@ -371,6 +375,8 @@ def camelot_wheel(collection_df):
 
     # Layout
     camelot_fig.update_layout(
+        paper_bgcolor='white',  # background outside the plot
+        plot_bgcolor='white',
         title=dict(
             text="Distribución armónica – Camelot Wheel",
             font=dict(size=22, color='black'),
@@ -400,6 +406,8 @@ def sim_hist(filtered_df_2,collection_df_spotify):
     )
     # Personalizamos el texto del grafico
     sim_hist.update_layout(
+    paper_bgcolor='white',  # background outside the plot
+    plot_bgcolor='white',    
         title=dict(
         text='Histograma, indice de similitud',
         font=dict(color='black', size=22),x=0.5,xanchor = 'center'
@@ -449,6 +457,8 @@ def pop_hist(filtered_df_2,collection_df_spotify):
     )
     # Personalizamos el texto del grafico
     pop_hist.update_layout(
+        paper_bgcolor='white',  # background outside the plot
+        plot_bgcolor='white',
         title=dict(
         text='Histograma, indice de popularidad Spotify',
         font=dict(color='black', size=22),x=0.5,xanchor = 'center'
@@ -544,6 +554,8 @@ def year_release_bar(filtered_df_2):
     )
 
     year_release_bar.update_layout(
+        paper_bgcolor='white',  # background outside the plot
+        plot_bgcolor='white',
         title=dict(font=dict(color='black', size=22),x=0.5,xanchor = 'center'),
         xaxis=dict(
             title=None,
@@ -594,7 +606,9 @@ def sets_per_year(sets_per_year):
     layout = go.Layout(title=dict(
                            text='DJ Sets realizados por año',
                            font=dict(color='black', size=22), x=0.5, xanchor = 'center'
-                       ),                      
+                       ),
+                        paper_bgcolor='white',  # background outside the plot
+                        plot_bgcolor='white',                      
                        xaxis = dict(title = None,showgrid = False,
                                     tickfont=dict(color='black')),
                        yaxis = dict(title =dict(text ='DJ Sets por año',font=dict(color='black')),
@@ -620,6 +634,8 @@ def bpm_hist_sets(sets_metrics):
     )
     # Personalizamos el texto del grafico
     bpm_hist.update_layout(
+    paper_bgcolor='white',  # background outside the plot
+    plot_bgcolor='white',    
     title=dict(
         text='BPMs promedio en tus DJ Sets',
         font=dict(color='black', size=22), x=0.5, xanchor = 'center'
@@ -668,6 +684,8 @@ def duration_hist_sets(sets_metrics):
     )
     # Personalizamos el texto del grafico
     duration_hist.update_layout(
+    paper_bgcolor='white',  # background outside the plot
+    plot_bgcolor='white',    
     title=dict(
         text='Duración promedio en tus DJ Sets (min)',
         font=dict(color='black', size=22), x=0.5, xanchor = 'center'
