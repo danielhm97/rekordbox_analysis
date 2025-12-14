@@ -31,8 +31,8 @@ def load_data_master():
     print("Collection file exists:", master_collection_path.exists())
     print("History file exists:", master_history_path.exists())
     
-    master_collection_path = '../data/master/master_collection.csv'
-    master_history_path = '../data/master/master_history.csv'
+    #master_collection_path = '../data/master/master_collection.csv'
+    #master_history_path = '../data/master/master_history.csv'
     master_collection_df = pd.read_csv(master_collection_path, sep=',',encoding='utf-8')
     master_history_df = pd.read_csv(master_history_path, sep=',',encoding='utf-8')
 
