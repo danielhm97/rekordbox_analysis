@@ -21,7 +21,7 @@ import plotly.graph_objects as go
 def load_data_master():
 
     # Get the directory of the current script
-    BASE_DIR = Path(os.getcwd()).resolve().parent
+    BASE_DIR = Path(os.getcwd()).resolve()
     print(BASE_DIR)
     # Build absolute paths for streamlite
     master_collection_path = BASE_DIR / "data/master/master_collection.csv"
