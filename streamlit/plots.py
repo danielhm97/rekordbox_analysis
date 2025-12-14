@@ -15,6 +15,18 @@ import plotly.graph_objects as go
 # Carga y tratamiento de datos
 @st.cache_data
 def load_data_master():
+
+    # Get the directory of the current script
+    BASE_DIR = Path(__file__).resolve().parent
+
+    # Build absolute paths
+    master_collection_path = BASE_DIR / "../data/master/master_collection.csv"
+    master_history_path = BASE_DIR / "../data/master/master_history.csv"
+
+    # Optional: check paths
+    print("Collection file exists:", master_collection_path.exists())
+    print("History file exists:", master_history_path.exists())
+    
     master_collection_path = '../data/master/master_collection.csv'
     master_history_path = '../data/master/master_history.csv'
     master_collection_df = pd.read_csv(master_collection_path, sep=',',encoding='utf-8')
